@@ -1,63 +1,63 @@
 @ Only contains the text for the Mauville Man named Giddy. The rest is in scripts/mauville_man.inc
 GiddyText_SoPretty::
-	.string " so pretty!$"
+	.string " sangat cantik!$"
 
 GiddyText_SoDarling::
-	.string " so darling!$"
+	.string " sangat manis!$"
 
 GiddyText_SoRelaxed::
-	.string " so relaxed!$"
+	.string " sangat santai!$"
 
 GiddyText_SoSunny::
-	.string " so sunny!$"
+	.string " sangat cerah!$"
 
 GiddyText_SoDesirable::
-	.string " so desirable!$"
+	.string " sangat menarik!$"
 
 GiddyText_SoExciting::
-	.string " so exciting!$"
+	.string " sangat seru!$"
 
 GiddyText_SoAmusing::
-	.string " so amusing!$"
+	.string " sangat lucu!$"
 
 GiddyText_SoMagical::
-	.string " so magical!$"
+	.string " sangat ajaib!$"
 
 GiddyText_Is::
-	.string " is$"
+	.string " adalah$"
 
 GiddyText_DontYouAgree::
 	.string "\n"
-	.string "Don't you agree?$"
+	.string "Kamu setuju, kan?$"
 
 GiddyText_ISoWantToGoOnAVacation::
-	.string "I so want to go on a vacation.\n"
-	.string "Would you happen to know a nice place?$"
+	.string "Aku sangat ingin pergi liburan.\n"
+	.string "Apa kamu tahu tempat yang bagus?$"
 
 GiddyText_IBoughtCrayonsWith120Colors::
-	.string "I bought crayons with 120 colors!\n"
-	.string "Don't you think that's nice?$"
+	.string "Aku membeli krayon dengan 120 warna!\n"
+	.string "Bukankah itu bagus?$"
 
 GiddyText_WouldntItBeNiceIfWeCouldFloat::
-	.string "Wouldn't it be nice if we could float\n"
-	.string "away on a cloud of bubbles?$"
+	.string "Bukankah menyenangkan jika kita bisa\n"
+	.string "terbang di atas awan gelembung?$"
 
 GiddyText_WhenYouWriteOnASandyBeach::
-	.string "When you write on a sandy beach,\n"
-	.string "they wash away. It makes me sad.$"
+	.string "Saat kamu menulis di pantai berpasir,\n"
+	.string "tulisan itu akan terhapus. Itu membuatku sedih.$"
 
 GiddyText_WhatsTheBottomOfTheSeaLike::
-	.string "What's the bottom of the sea like?\n"
-	.string "Just once I would so love to go!$"
+	.string "Bagaimana dasar laut itu?\n"
+	.string "Sekali saja aku ingin sekali pergi!$"
 
 GiddyText_WhenYouSeeTheSettingSunDoesIt::
-	.string "When you see the setting sun, does it\n"
-	.string "make you want to go home?$"
+	.string "Saat kamu melihat matahari terbenam, apakah itu\n"
+	.string "membuatmu ingin pulang?$"
 
 GiddyText_LyingBackInTheGreenGrass::
-	.string "Lying back in the green grass…\n"
-	.string "Oh, it's so, so nice!$"
+	.string "Berbaring di rumput hijau…\n"
+	.string "Oh, ini sangat, sangat menyenangkan!$"
 
 GiddyText_SecretBasesAreSoWonderful::
-	.string "SECRET BASES are so wonderful!\n"
-	.string "Can't you feel the excitement?$"
+	.string "MARKAS RAHASIA sangat menakjubkan!\n"
+	.string "Tidak bisakah kamu merasakan kegembiraannya?$"

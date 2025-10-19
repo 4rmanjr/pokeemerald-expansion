@@ -43,45 +43,45 @@ Route110_TrickHousePuzzle6_EventScript_Sebastian::
 	end
 
 Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is my life.”\n"
+	.string "{PLAYER} menuliskan kode rahasia\n"
+	.string "di pintu.\p"
+	.string "“TRICK MASTER adalah hidupku.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Kunci terbuka!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaIntro:
-	.string "When I heard there was a strange\n"
-	.string "house, I had to check it out.$"
+	.string "Ketika Aku mendengar ada rumah aneh,\n"
+	.string "Aku harus memeriksanya.$"
 
 Route110_TrickHousePuzzle6_Text_SophiaDefeat:
-	.string "I've discovered a tough TRAINER!$"
+	.string "Aku telah menemukan TRAINER yang tangguh!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaPostBattle:
-	.string "I'm sure having a good time checking\n"
-	.string "this place out.\p"
-	.string "It's a challenge I've found worth\n"
-	.string "repeating!$"
+	.string "Aku yakin bersenang-senang memeriksa\n"
+	.string "tempat ini.\p"
+	.string "Ini adalah tantangan yang menurutku\n"
+	.string "layak diulang!$"
 
 Route110_TrickHousePuzzle6_Text_BennyIntro:
-	.string "Maybe I could get my BIRD POKéMON\n"
-	.string "to fly over the wall…$"
+	.string "Mungkin Aku bisa menyuruh POKéMON BURUNG-ku\n"
+	.string "terbang melewati tembok…$"
 
 Route110_TrickHousePuzzle6_Text_BennyDefeat:
-	.string "Gwaaah! I blew it!$"
+	.string "Gwaaah! Aku gagal!$"
 
 Route110_TrickHousePuzzle6_Text_BennyPostBattle:
-	.string "Ehehehe… I guess I lost because\n"
-	.string "I was trying to cheat.$"
+	.string "Ehehehe… Kurasa Aku kalah karena\n"
+	.string "Aku mencoba curang.$"
 
 Route110_TrickHousePuzzle6_Text_SebastianIntro:
-	.string "I'm getting dizzy from these rotating\n"
-	.string "doors…$"
+	.string "Aku pusing karena pintu-pintu berputar\n"
+	.string "ini…$"
 
 Route110_TrickHousePuzzle6_Text_SebastianDefeat:
-	.string "Everything's spinning around and\n"
-	.string "around. I can't take this anymore…$"
+	.string "Semuanya berputar-putar. Aku tidak\n"
+	.string "tahan lagi…$"
 
 Route110_TrickHousePuzzle6_Text_SebastianPostBattle:
-	.string "You don't seem to be affected at all.\n"
-	.string "Or do you have your poker face on?$"
+	.string "Kamu sepertinya tidak terpengaruh sama sekali.\n"
+	.string "Atau apakah kamu sedang memasang muka datar?$"
 

@@ -244,71 +244,71 @@ BattleFrontier_BattleFactoryBattleRoom_EventScript_ScientistsFaceBattle::
 	return
 
 BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn:
-	.string "Hey, hey!\n"
-	.string "Get a move on!$"
+	.string "Hei, hei!\n"
+	.string "Ayo cepat!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead:
-	.string "Hey, my name's NOLAND!\n"
-	.string "I'm basically in charge of this place,\l"
-	.string "which is why I'm the FACTORY HEAD!\p"
-	.string "I had a look at your Battle Swap data.\p"
-	.string "You seem to have the right idea,\n"
-	.string "but you're still square in your head!\p"
-	.string "Listen up, okay? Knowledge isn't only\n"
-	.string "about reading books or doing desk work.\p"
-	.string "Just doing that sort of thing…\n"
-	.string "It may as well be useless!\p"
-	.string "You have to experience things with\n"
-	.string "your heart and your body, understand?\p"
-	.string "I'll take you on under the same\n"
-	.string "conditions as you.\p"
-	.string "I'll be using rental POKéMON, too!$"
+	.string "Hei, namaku NOLAND!\n"
+	.string "Aku yang bertanggung jawab di sini,\l"
+	.string "makanya aku KEPALA PABRIK!\p"
+	.string "Aku sudah lihat data Battle Swap-mu.\p"
+	.string "Idemu sepertinya benar,\n"
+	.string "tapi kamu masih kaku!\p"
+	.string "Dengar, ya? Pengetahuan itu bukan\n"
+	.string "hanya dari baca buku atau belajar.\p"
+	.string "Hanya melakukan hal seperti itu…\n"
+	.string "Sama saja tak berguna!\p"
+	.string "Kamu harus merasakan semuanya dengan\n"
+	.string "hati dan tubuhmu, mengerti?\p"
+	.string "Aku akan melawanmu dengan kondisi\n"
+	.string "yang sama.\p"
+	.string "Aku juga akan pakai POKéMON sewaan!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ShakeOutKnowledgeBringItOn:
-	.string "Shake out every last bit of your\n"
-	.string "knowledge and bring it on!$"
+	.string "Keluarkan semua pengetahuanmu\n"
+	.string "dan ayo lawan aku!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandLetsSeeFrontierPass:
-	.string "NOLAND: Smart going!\n"
-	.string "Let's see your FRONTIER PASS.$"
+	.string "NOLAND: Cerdas sekali!\n"
+	.string "Coba lihat FRONTIER PASS-mu.$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol:
-	.string "The Knowledge Symbol was embossed\n"
-	.string "on the FRONTIER PASS!$"
+	.string "Simbol Knowledge telah dicetak\n"
+	.string "di FRONTIER PASS!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred:
 	.string "Heh…\n"
-	.string "You're a pretty bright spark…\p"
-	.string "Next time, I'll come after you hard.\n"
-	.string "No holds barred, understand?\p"
-	.string "You keep up your studies!$"
+	.string "Kamu cukup cerdas…\p"
+	.string "Lain kali, aku akan melawanmu\n"
+	.string "dengan serius. Tanpa ampun, mengerti?\p"
+	.string "Teruslah belajar!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime:
-	.string "NOLAND: Hey, hey! How's it going?\n"
-	.string "You keeping up with your studies?\p"
+	.string "NOLAND: Hei, hei! Apa kabar?\n"
+	.string "Apa kamu terus belajar?\p"
 	.string "…Oh?\p"
-	.string "You've taken on a harder look than\n"
-	.string "the last time I saw you.\p"
-	.string "Now, this should be fun!\n"
-	.string "I'm getting excited, hey!$"
+	.string "Kamu terlihat lebih tangguh dari\n"
+	.string "yang terakhir kulihat.\p"
+	.string "Nah, ini akan jadi seru!\n"
+	.string "Aku jadi bersemangat, hei!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn:
-	.string "All right!\n"
-	.string "Bring it on!$"
+	.string "Baiklah!\n"
+	.string "Ayo maju!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass:
-	.string "NOLAND: What the…\n"
-	.string "You're getting out of my league!\p"
-	.string "Sheesh!\n"
-	.string "Let's see that FRONTIER PASS!$"
+	.string "NOLAND: Apa-apaan…\n"
+	.string "Kamu mulai melampauiku!\p"
+	.string "Sial!\n"
+	.string "Coba lihat FRONTIER PASS itu!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_KnowledgeSymbolTookGoldenShine:
-	.string "The Knowledge Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Simbol Knowledge kini\n"
+	.string "bersinar keemasan!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_LastTimeILoseToYou:
-	.string "Pfft, man!\p"
-	.string "That's absolutely the last time\n"
-	.string "I lose to you!\p"
-	.string "We have to do this again, hey?$"
+	.string "Cih, sial!\p"
+	.string "Ini benar-benar terakhir kalinya\n"
+	.string "aku kalah darimu!\p"
+	.string "Kita harus tanding lagi, hei?$"
 

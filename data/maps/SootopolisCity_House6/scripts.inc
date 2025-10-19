@@ -32,22 +32,22 @@ SootopolisCity_House6_EventScript_NoRoomForWailmerDoll::
 	end
 
 SootopolisCity_House6_Text_FirstGuestInWhileTakeDoll:
-	.string "Hello! You're our first guest in\n"
-	.string "a good while.\p"
-	.string "You've brightened up my day, so I'll\n"
-	.string "give you a big WAILMER DOLL.$"
+	.string "Halo! Kamu tamu pertama kami\n"
+	.string "setelah sekian lama.\p"
+	.string "Kamu membuat hariku cerah, jadi aku\n"
+	.string "akan memberimu BONEKA WAILMER besar.$"
 
 SootopolisCity_House6_Text_TakeGoodCareOfIt:
-	.string "Take good care of it!$"
+	.string "Jaga baik-baik!$"
 
 SootopolisCity_House6_Text_IllHoldItForYou:
-	.string "Oh, you want it, but not right now?\n"
-	.string "Okay, then I'll hold it for you.$"
+	.string "Oh, kamu mau, tapi tidak sekarang?\n"
+	.string "Baiklah, kalau begitu aku akan menyimpannya untukmu.$"
 
 SootopolisCity_House6_Text_DontWantThisDoll:
-	.string "Are you sure?\n"
-	.string "You don't want this DOLL?$"
+	.string "Kamu yakin?\n"
+	.string "Kamu tidak mau BONEKA ini?$"
 
 SootopolisCity_House6_Text_LovePlushDolls:
-	.string "I love plush DOLLS!$"
+	.string "Aku suka BONEKA mewah!$"
 

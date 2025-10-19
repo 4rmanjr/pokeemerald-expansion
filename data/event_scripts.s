@@ -883,168 +883,169 @@ Common_EventScript_PlayerHandedOverTheItem::
 
 @ The below and surf.inc could be split into some text/notices.inc
 gText_PokemartSign::
-	.string "“Selected items for your convenience!”\n"
-	.string "POKéMON MART$"
+    .string "“Barang pilihan untuk kenyamananmu!”\n"
+    .string "POKéMON MART$"
 
 gText_PokemonCenterSign::
-	.string "“Rejuvenate your tired partners!”\n"
-	.string "POKéMON CENTER$"
+    .string "“Pulihkan partner-mu yang kelelahan!”\n"
+    .string "POKéMON CENTER$"
 
 gText_MomOrDadMightLikeThisProgram::
-	.string "{STR_VAR_1} might like this program.\n"
-	.string "… … … … … … … … … … … … … … … …\p"
-	.string "Better get going!$"
+    .string "{STR_VAR_1} mungkin suka program ini.\n"
+    .string "… … … … … … … … … … … … … … … …\p"
+    .string "Sebaiknya aku bergegas!$"
 
 gText_WhichFloorWouldYouLike::
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.\p"
-	.string "Which floor would you like?$"
+    .string "Selamat datang di LILYCOVE\n"
+    .string "DEPARTMENT STORE.\p"
+    .string "Anda mau ke lantai berapa?$"
 
 gText_SandstormIsVicious::
-	.string "The sandstorm is vicious.\n"
-	.string "It's impossible to keep going.$"
+    .string "Badai pasir ini sangat ganas.\n"
+    .string "Mustahil untuk terus maju.$"
 
 gText_SelectWithoutRegisteredItem::
-	.string "An item in the BAG can be\n"
-	.string "registered to SELECT for easy use.$"
+    .string "Item di TAS bisa didaftarkan ke\n"
+    .string "SELECT untuk pemakaian cepat.$"
 
 gText_PokemonTrainerSchoolEmail::
-	.string "There's an e-mail from POKéMON TRAINER\n"
-	.string "SCHOOL.\p"
-	.string "… … … … … …\p"
-	.string "A POKéMON may learn up to four moves.\p"
-	.string "A TRAINER's expertise is tested on the\n"
-	.string "move sets chosen for POKéMON.\p"
-	.string "… … … … … …$"
+    .string "Ada e-mail dari SEKOLAH TRAINER.\p"
+    .string "… … … … … …\p"
+    .string "POKéMON bisa belajar hingga 4 move.\p"
+    .string "Keahlian TRAINER diuji dari\n"
+    .string "set move yang dipilih POKéMON.\p"
+    .string "… … … … … …$"
 
 gText_PlayerHouseBootPC::
-	.string "{PLAYER} booted up the PC.$"
+    .string "{PLAYER} menyalakan PC.$"
 
 gText_PokeblockLinkCanceled::
-	.string "The link was canceled.$"
+    .string "Koneksi dibatalkan.$"
 
 gText_UnusedNicknameReceivedPokemon::
-	.string "Want to give a nickname to\n"
-	.string "the {STR_VAR_2} you received?$"
+    .string "Ingin beri nama panggilan untuk\n"
+    .string "{STR_VAR_2} yang baru diterima?$"
 
 gText_PlayerWhitedOut::
-	.string "{PLAYER} is out of usable\n"
-	.string "POKéMON!\p{PLAYER} whited out!$"
+    .string "{PLAYER} kehabisan POKéMON\n"
+    .string "yang bisa bertarung!\p"
+    .string "{PLAYER} pingsan!$"
 
 gText_FirstShouldRestoreMonsHealth::
-	.string "First, you should restore your\n"
-	.string "POKéMON to full health.$"
+    .string "Pertama, kamu harus memulihkan\n"
+    .string "POKéMON ke kesehatan penuh.$"
 
 gText_MonsHealedShouldBuyPotions::
-	.string "Your POKéMON have been healed\n"
-	.string "to perfect health.\p"
-	.string "If your POKéMON's energy, HP,\n"
-	.string "is down, please come see us.\p"
-	.string "If you're planning to go far in the\n"
-	.string "field, you should buy some POTIONS\l"
-	.string "at the POKéMON MART.\p"
-	.string "We hope you excel!$"
+    .string "POKéMON-mu telah pulih\n"
+    .string "sepenuhnya.\p"
+    .string "Kalau HP POKéMON-mu berkurang,\n"
+    .string "datang saja lagi ke sini.\p"
+    .string "Kalau mau berpetualang jauh,\n"
+    .string "sebaiknya beli beberapa POTIONS\l"
+    .string "di POKéMON MART.\p"
+    .string "Semoga berhasil!$"
 
 gText_MonsHealed::
-	.string "Your POKéMON have been healed\n"
-	.string "to perfect health.\p"
-	.string "We hope you excel!$"
+    .string "POKéMON-mu telah pulih\n"
+    .string "sepenuhnya.\p"
+    .string "Semoga berhasil!$"
 
 gText_HadQuiteAnExperienceTakeRest::
-	.string "MOM: {PLAYER}!\n"
-	.string "Welcome home.\p"
-	.string "It sounds like you had quite\n"
-	.string "an experience.\p"
-	.string "Maybe you should take a quick\n"
-	.string "rest.$"
+    .string "IBU: {PLAYER}!\n"
+    .string "Selamat pulang.\p"
+    .string "Sepertinya kamu mengalami\n"
+    .string "banyak hal, ya.\p"
+    .string "Mungkin sebaiknya kamu\n"
+    .string "istirahat sebentar.$"
 
 gText_MomExplainHPGetPotions::
-	.string "MOM: Oh, good! You and your\n"
-	.string "POKéMON are looking great.\p"
-	.string "I just heard from PROF. BIRCH.\p"
-	.string "He said that POKéMON's energy is\n"
-	.string "measured in HP.\p"
-	.string "If your POKéMON lose their HP,\n"
-	.string "you can restore them at any\l"
-	.string "POKéMON CENTER.\p"
-	.string "If you're going to travel far away,\n"
-	.string "the smart TRAINER stocks up on\l"
-	.string "POTIONS at the POKéMON MART.\p"
-	.string "Make me proud, honey!\p"
-	.string "Take care!$"
+    .string "IBU: Oh, bagus! Kamu dan POKéMON\n"
+    .string "terlihat baik-baik saja.\p"
+    .string "Ibu baru dengar dari PROF. BIRCH.\p"
+    .string "Katanya, energi POKéMON diukur\n"
+    .string "dalam HP.\p"
+    .string "Jika POKéMON-mu kehilangan HP,\n"
+    .string "bisa pulih di POKéMON CENTER.\p"
+    .string "Kalau mau pergi jauh,\n"
+    .string "TRAINER cerdas selalu sedia\l"
+    .string "POTIONS dari POKéMON MART.\p"
+    .string "Buat Ibu bangga ya, sayang!\p"
+    .string "Hati-hati!$"
 
 gText_RegisteredTrainerinPokeNav::
-	.string "Registered {STR_VAR_1} {STR_VAR_2}\n"
-	.string "in the POKéNAV.$"
+    .string "Mendaftarkan {STR_VAR_1} {STR_VAR_2}\n"
+    .string "di POKéNAV.$"
 
 gText_ComeBackWithSecretPower::
-	.string "Do you know the TM SECRET POWER?\p"
-	.string "Our group, we love the TM SECRET\n"
-	.string "POWER.\p"
-	.string "One of our members will give it to you.\n"
-	.string "Come back and show me if you get it.\p"
-	.string "We'll accept you as a member and sell\n"
-	.string "you good stuff in secrecy.$"
+    .string "Apa kamu tahu TM SECRET POWER?\p"
+    .string "Kelompok kami sangat menyukai\n"
+    .string "TM SECRET POWER.\p"
+    .string "Salah satu anggota akan memberikannya.\p"
+    .string "Kembali dan tunjukkan padaku\n"
+    .string "jika kamu sudah mendapatkannya.\p"
+    .string "Kami akan menerimamu sebagai anggota\n"
+    .string "dan menjual barang bagus rahasia.$"
 
 gText_PokerusExplanation::
-	.string "Your POKéMON may be infected with\n"
-	.string "POKéRUS.\p"
-	.string "Little is known about the POKéRUS\n"
-	.string "except that they are microscopic life-\l"
-	.string "forms that attach to POKéMON.\p"
-	.string "While infected, POKéMON are said to\n"
-	.string "grow exceptionally well.$"
+    .string "POKéMON-mu mungkin terinfeksi\n"
+    .string "POKéRUS.\p"
+    .string "Tak banyak yang tahu soal POKéRUS,\l"
+    .string "selain itu adalah makhluk mikro\l"
+    .string "yang menempel pada POKéMON.\p"
+    .string "Saat terinfeksi, POKéMON dikatakan\n"
+    .string "tumbuh dengan sangat baik.$"
 
-	.include "data/text/surf.inc"
+    .include "data/text/surf.inc"
 
 gText_DoorOpenedFarAway::
-	.string "It sounded as if a door opened\n"
-	.string "somewhere far away.$"
+    .string "Terdengar seperti ada pintu terbuka\n"
+    .string "di suatu tempat yang jauh.$"
 
 gText_BigHoleInTheWall::
-	.string "There is a big hole in the wall.$"
+    .string "Ada lubang besar di dinding.$"
 
 gText_SorryWirelessClubAdjustments::
-	.string "I'm terribly sorry.\n"
-	.string "The POKéMON WIRELESS CLUB is\l"
-	.string "undergoing adjustments now.$"
+    .string "Kami sangat menyesal.\n"
+    .string "Klub Nirkabel POKéMON sedang\l"
+    .string "melakukan penyesuaian saat ini.$"
 
 gText_UndergoingAdjustments::
-	.string "It appears to be undergoing\n"
-	.string "adjustments…$"
+    .string "Sepertinya sedang dalam\n"
+    .string "penyesuaian…$"
 
 @ Unused
 gText_SorryTradeCenterInspections::
-	.string "I'm terribly sorry. The TRADE CENTER\n"
-	.string "is undergoing inspections.$"
+    .string "Maaf. TRADE CENTER sedang dalam\n"
+    .string "inspeksi.$"
 
 @ Unused
 gText_SorryRecordCornerPreparation::
-	.string "I'm terribly sorry. The RECORD CORNER\n"
-	.string "is under preparation.$"
+    .string "Maaf. RECORD CORNER sedang dalam\n"
+    .string "persiapan.$"
 
 gText_PlayerHandedOverTheItem::
-	.string "{PLAYER} handed over the\n"
-	.string "{STR_VAR_1}.$"
+    .string "{PLAYER} menyerahkan\n"
+    .string "{STR_VAR_1}.$"
 
 gText_ThankYouForAccessingMysteryGift::
-	.string "Thank you for accessing the\n"
-	.string "MYSTERY GIFT System.$"
+    .string "Terima kasih telah mengakses\n"
+    .string "Sistem MYSTERY GIFT.$"
 
 gText_PlayerFoundOneTMHM::
-	.string "{PLAYER} found one {STR_VAR_1}\n"
-	.string "{STR_VAR_2}!$"
+    .string "{PLAYER} menemukan satu {STR_VAR_1}\n"
+    .string "{STR_VAR_2}!$"
 
 gText_PlayerFoundTMHMs::
-	.string "{PLAYER} found {STR_VAR_3} {STR_VAR_1}\n"
-	.string "{STR_VAR_2}!$"
+    .string "{PLAYER} menemukan {STR_VAR_3} {STR_VAR_1}\n"
+    .string "{STR_VAR_2}!$"
 
 gText_Sudowoodo_Attacked::
-	.string "The weird tree doesn't like the\n"
-	.string "WAILMER PAIL!\p"
-	.string "The weird tree attacked!$"
+    .string "Pohon aneh itu tidak suka\n"
+    .string "WAILMER PAIL!\p"
+    .string "Pohon aneh itu menyerang!$"
 
 gText_LegendaryFlewAway::
-	.string "The {STR_VAR_1} flew away!$"
+    .string "{STR_VAR_1} terbang menjauh!$"
 
 	.include "data/text/pc_transfer.inc"
 	.include "data/text/questionnaire.inc"

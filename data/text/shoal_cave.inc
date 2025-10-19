@@ -1,53 +1,53 @@
 ShoalCave_LowTideEntranceRoom_Text_AreYouPlanningOnGoingInThere:
-	.string "Are you planning on going deep\n"
-	.string "in there?\p"
-	.string "How about bringing me back some\n"
-	.string "SHOAL SALT and SHOAL SHELLS?\p"
-	.string "I can make you something good if\n"
-	.string "you bring me the ingredients.$"
+	.string "Apakah kamu berencana untuk masuk\n"
+	.string "lebih dalam ke sana?\p"
+	.string "Bagaimana kalau kamu membawakanku\n"
+	.string "SHOAL SALT dan SHOAL SHELL?\p"
+	.string "Aku bisa membuatkanmu sesuatu yang bagus jika\n"
+	.string "kamu membawakanku bahan-bahannya.$"
 
 ShoalCave_LowTideEntranceRoom_Text_BringMe4ShoalSaltAndShells:
-	.string "If you bring me four each of the\n"
-	.string "SHOAL SALT and SHOAL SHELLS,\l"
-	.string "I can make you a SHELL BELL…\p"
-	.string "You can get those ingredients\n"
-	.string "every day.$"
+	.string "Jika kamu membawakanku masing-masing empat\n"
+	.string "SHOAL SALT dan SHOAL SHELL,\l"
+	.string "Aku bisa membuatkanmu SHELL BELL…\p"
+	.string "Kamu bisa mendapatkan bahan-bahan itu\n"
+	.string "setiap hari.$"
 
 ShoalCave_LowTideEntranceRoom_Text_WouldYouLikeShellBell:
-	.string "Oh, hey! SHOAL SALT and SHOAL SHELLS!\n"
-	.string "And enough of them, too!\p"
-	.string "Would you like me to make you\n"
-	.string "a SHELL BELL with them?$"
+	.string "Oh, hei! SHOAL SALT dan SHOAL SHELL!\n"
+	.string "Dan cukup banyak juga!\p"
+	.string "Maukah kamu aku buatkan\n"
+	.string "SHELL BELL dengan itu?$"
 
 ShoalCave_LowTideEntranceRoom_Text_MakeShellBellRightAway:
-	.string "All righty, then! I'll make you\n"
-	.string "a SHELL BELL right away.\p"
+	.string "Baiklah, kalau begitu! Aku akan membuatkanmu\n"
+	.string "SHELL BELL segera.\p"
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
-	.string "There! Done!$"
+	.string "Selesai!$"
 
 ShoalCave_LowTideEntranceRoom_Text_ExplainShellBell:
-	.string "Have a POKéMON hold on to that.\n"
-	.string "It'll love it, that's for certain.\p"
-	.string "Why, the SHELL BELL's chime…\n"
-	.string "It's simply sublime!\p"
-	.string "You can get its ingredients every day,\n"
-	.string "so I can make you more.$"
+	.string "Biarkan POKéMON memegang itu.\n"
+	.string "Dia pasti akan menyukainya.\p"
+	.string "Kenapa, suara lonceng SHELL BELL…\n"
+	.string "Sangat indah!\p"
+	.string "Kamu bisa mendapatkan bahan-bahannya setiap hari,\n"
+	.string "jadi aku bisa membuatkanmu lebih banyak.$"
 
 ShoalCave_LowTideEntranceRoom_Text_WantedToMakeShellBell:
-	.string "Oh… Is that so…\n"
-	.string "I wanted to make a SHELL BELL…$"
+	.string "Oh… Begitukah…\n"
+	.string "Aku ingin membuat SHELL BELL…$"
 
 ShoalCave_LowTideEntranceRoom_Text_NoSpaceInYourBag:
-	.string "You don't have space in your BAG\n"
-	.string "if I were to make it for you.\p"
-	.string "You should make room and come back\n"
-	.string "for a SHELL BELL.$"
+	.string "Kamu tidak punya ruang di TAS-mu\n"
+	.string "jika aku harus membuatnya untukmu.\p"
+	.string "Kamu harus membuat ruang dan kembali\n"
+	.string "untuk SHELL BELL.$"
 
 ShoalCave_Text_WasShoalSaltNowNothing:
-	.string "There was some SHOAL SALT here.\n"
-	.string "But, there's nothing here now.$"
+	.string "Ada SHOAL SALT di sini.\n"
+	.string "Tapi, tidak ada apa-apa di sini sekarang.$"
 
 ShoalCave_Text_WasShoallShellNowNothing:
-	.string "There was a SHOAL SHELL here.\n"
-	.string "But, there's nothing here now.$"
+	.string "Ada SHOAL SHELL di sini.\n"
+	.string "Tapi, tidak ada apa-apa di sini sekarang.$"

@@ -1,27 +1,27 @@
 Text_PictureBookShelf:
-	.string "There's a set of POKéMON picture books.$"
+	.string "Ada satu set buku bergambar POKéMON.$"
 
 Text_BookShelf:
-	.string "It's filled with all sorts of books.$"
+	.string "Rak ini penuh dengan berbagai macam buku.$"
 
 Text_PokemonCenterBookShelf:
-	.string "POKéMON magazines!\n"
+	.string "Majalah POKéMON!\n"
 	.string "POKéMON PAL…\p"
 	.string "POKéMON HANDBOOK…\n"
-	.string "ADORABLE POKéMON…$"
+	.string "POKéMON LUCU…$"
 
 Text_Vase:
-	.string "This vase looks expensive…\n"
-	.string "Peered inside…\p"
-	.string "But, it was empty.$"
+	.string "Vas ini terlihat mahal…\n"
+	.string "Mengintip ke dalam…\p"
+	.string "Tapi, kosong.$"
 
 Text_EmptyTrashCan:
-	.string "It's empty.$"
+	.string "Kosong.$"
 
 Text_ShopShelf:
-	.string "The shelves brim with all sorts of\n"
-	.string "POKéMON merchandise.$"
+	.string "Rak-rak penuh dengan berbagai macam\n"
+	.string "barang dagangan POKéMON.$"
 
 Text_Blueprint:
-	.string "A blueprint of some sort?\n"
-	.string "It's too complicated!$"
+	.string "Semacam cetak biru?\n"
+	.string "Terlalu rumit!$"

@@ -12,28 +12,28 @@ SSTidalLowerDeck_EventScript_Leonard::
 	end
 
 SSTidalLowerDeck_Text_PhillipIntro:
-	.string "Arrrgh! I'm fed up and dog-tired of\n"
-	.string "cleaning this huge place!\p"
-	.string "Let's have a quick battle!$"
+	.string "Arrgh! Aku muak dan lelah sekali\n"
+	.string "membersihkan tempat besar ini!\p"
+	.string "Ayo kita bertarung cepat!$"
 
 SSTidalLowerDeck_Text_PhillipDefeat:
-	.string "Little bro, I lost!$"
+	.string "Adik, aku kalah!$"
 
 SSTidalLowerDeck_Text_PhillipPostBattle:
-	.string "We're the CLEANUP BROTHERS!\p"
-	.string "The old one dumps the detergent,\n"
-	.string "and the young one does the scrubbing!$"
+	.string "Kami CLEANUP BROTHERS!\p"
+	.string "Yang tua menuangkan deterjen,\n"
+	.string "dan yang muda menggosok!$"
 
 SSTidalLowerDeck_Text_LeonardIntro:
-	.string "This is the bottom of the ship's hull.\n"
-	.string "There's plenty of room.\l"
-	.string "It'll be alright for a POKéMON battle.$"
+	.string "Ini adalah bagian bawah lambung kapal.\n"
+	.string "Ada banyak ruang.\l"
+	.string "Akan baik-baik saja untuk pertarungan POKéMON.$"
 
 SSTidalLowerDeck_Text_LeonardDefeat:
-	.string "Big bro, I lost!$"
+	.string "Kakak, aku kalah!$"
 
 SSTidalLowerDeck_Text_LeonardPostBattle:
-	.string "We're the CLEANUP BROTHERS!\p"
-	.string "The old one dumps the detergent,\n"
-	.string "and the young one does the scrubbing!$"
+	.string "Kami CLEANUP BROTHERS!\p"
+	.string "Yang tua menuangkan deterjen,\n"
+	.string "dan yang muda menggosok!$"
 

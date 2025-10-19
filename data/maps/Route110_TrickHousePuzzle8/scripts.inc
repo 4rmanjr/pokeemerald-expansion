@@ -28,44 +28,44 @@ Route110_TrickHousePuzzle8_EventScript_Leroy::
 	end
 
 Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER I love.”\n"
+	.string "{PLAYER} menuliskan kode rahasia\n"
+	.string "di pintu.\p"
+	.string "“TRICK MASTER Aku cinta.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Kunci terbuka!$"
 
 Route110_TrickHousePuzzle8_Text_VincentIntro:
-	.string "Not many TRAINERS have made it\n"
-	.string "this far.$"
+	.string "Tidak banyak TRAINER yang berhasil\n"
+	.string "sejauh ini.$"
 
 Route110_TrickHousePuzzle8_Text_VincentDefeat:
-	.string "That must mean you're tough, too…$"
+	.string "Itu berarti kamu juga tangguh…$"
 
 Route110_TrickHousePuzzle8_Text_VincentPostBattle:
-	.string "You've beaten the POKéMON LEAGUE\n"
-	.string "CHAMPION? That's too much!$"
+	.string "Kamu sudah mengalahkan JUARA LIGA\n"
+	.string "POKéMON? Itu terlalu banyak!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraIntro:
-	.string "Consider yourself lucky to be\n"
-	.string "battling me!$"
+	.string "Anggap dirimu beruntung bisa\n"
+	.string "melawanku!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraDefeat:
-	.string "This isn't right!\n"
-	.string "I can't lose!$"
+	.string "Ini tidak benar!\n"
+	.string "Aku tidak bisa kalah!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraPostBattle:
-	.string "It's a miracle that you beat me.\n"
-	.string "You can brag about it.$"
+	.string "Sungguh keajaiban kamu bisa mengalahkanku.\n"
+	.string "Kamu bisa membanggakannya.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyIntro:
-	.string "You've been slugging through the TRICK\n"
-	.string "HOUSE challenge, too.$"
+	.string "Kamu juga sudah berjuang melewati\n"
+	.string "tantangan TRICK HOUSE.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyDefeat:
-	.string "I see…\n"
-	.string "You possess an extraordinary style.$"
+	.string "Aku mengerti…\n"
+	.string "Kamu memiliki gaya yang luar biasa.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyPostBattle:
-	.string "Seeing someone like you should please\n"
-	.string "the TRICK MASTER.$"
+	.string "Melihat seseorang sepertimu seharusnya\n"
+	.string "menyenangkan TRICK MASTER.$"
 

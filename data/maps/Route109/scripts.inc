@@ -478,87 +478,87 @@ Route109_EventScript_Elijah::
 
 DewfordTown_Text_BrineyLandedInSlateportDeliverGoods:
 	.string "MR. BRINEY: Ahoy!\n"
-	.string "We've made land in SLATEPORT!\p"
-	.string "I suppose you're going to visit CAPT.\n"
-	.string "STERN and deliver the DEVON GOODS?$"
+	.string "Kita sudah mendarat di SLATEPORT!\p"
+	.string "Aku kira kamu akan mengunjungi CAPT.\n"
+	.string "STERN dan mengantarkan BARANG DEVON?$"
 
 Route109_Text_BrineySailToDewfordQuestion:
-	.string "MR. BRINEY: I thought you're supposed\n"
-	.string "to deliver the DEVON GOODS.\p"
-	.string "Would you like to sail back to\n"
-	.string "DEWFORD, then?$"
+	.string "MR. BRINEY: Aku kira kamu seharusnya\n"
+	.string "mengantarkan BARANG DEVON.\p"
+	.string "Apakah kamu ingin berlayar kembali ke\n"
+	.string "DEWFORD, kalau begitu?$"
 
 Route109_Text_BrineyDewfordItIs:
-	.string "MR. BRINEY: DEWFORD it is, then!\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "MR. BRINEY: DEWFORD, kalau begitu!\p"
+	.string "Angkat jangkar!\n"
+	.string "PEEKO, kita akan berlayar, sayangku!$"
 
 Route109_Text_BrineyDeliverDevonGoods:
-	.string "MR. BRINEY: Then you go on and deliver\n"
-	.string "the DEVON GOODS. I'll be waiting.$"
+	.string "MR. BRINEY: Kalau begitu lanjutkan dan\n"
+	.string "antarkan BARANG DEVON. Aku akan menunggu.$"
 
 DewfordTown_Text_BrineyLandedInSlateport:
-	.string "MR. BRINEY: Ahoy! We've made land in\n"
+	.string "MR. BRINEY: Ahoy! Kita sudah mendarat di\n"
 	.string "SLATEPORT!\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail again!$"
+	.string "Kamu tinggal bilang padaku kapan saja\n"
+	.string "kamu ingin berlayar lagi!$"
 
 Route109_Text_BrineyWhereAreWeBound:
 	.string "MR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
+	.string "Untukmu, Aku akan pergi ke laut kapan saja!\p"
+	.string "Sekarang, temanku, kita akan ke mana?$"
 
 Route109_Text_BrineyTellMeWhenYouNeedToSail:
-	.string "MR. BRINEY: You just tell me whenever\n"
-	.string "you need to set sail again!$"
+	.string "MR. BRINEY: Kamu tinggal bilang padaku kapan saja\n"
+	.string "kamu ingin berlayar lagi!$"
 
 Route109_Text_ChillAtMyPapasSpot:
-	.string "Yo, TRAINERS!\n"
-	.string "Whether you're hot to trot,\l"
-	.string "or cool cat not,\l"
-	.string "chill at my papa's spot!$"
+	.string "Yo, TRAINER!\n"
+	.string "Entah kamu bersemangat,\l"
+	.string "atau santai,\l"
+	.string "bersantai di tempat papaku!$"
 
 Route109_Text_LittleKidsDartAround:
-	.string "Little kids can dart around so quickly…\p"
-	.string "You don't dare take your eyes off them\n"
-	.string "for an instant. It's very taxing.\p"
-	.string "Mine are with my POKéMON, so they\n"
-	.string "should be okay, but…$"
+	.string "Anak-anak kecil bisa berlarian begitu cepat…\p"
+	.string "Kamu tidak berani mengalihkan pandangan\n"
+	.string "sedikit pun. Ini sangat melelahkan.\p"
+	.string "Anak-anakku bersama POKéMON-ku, jadi mereka\n"
+	.string "seharusnya baik-baik saja, tapi…$"
 
 Route109_Text_SandCastleTakingLongTime:
-	.string "Our sand castle's taking a long time\n"
-	.string "to make.$"
+	.string "Istana pasir kami membutuhkan waktu\n"
+	.string "lama untuk dibuat.$"
 
 Route109_Text_YouCanHaveThis:
-	.string "You can have this!$"
+	.string "Kamu bisa memiliki ini!$"
 
 Route109_Text_WereGoingToMakeBigCastle:
-	.string "We're going to get all the sand from\n"
-	.string "the beach and make a big castle!\p"
-	.string "And then we're going to be a king and\n"
-	.string "queen.\p"
-	.string "We'll let you be a servant.$"
+	.string "Kami akan mengambil semua pasir dari\n"
+	.string "pantai dan membuat istana besar!\p"
+	.string "Dan kemudian kami akan menjadi raja dan\n"
+	.string "ratu.\p"
+	.string "Kami akan menjadikanmu pelayan.$"
 
 Route109_Text_ZigzagoonPicksUpLitter:
-	.string "The water around these parts is clean.\p"
-	.string "But, I get my ZIGZAGOON to pick up\n"
-	.string "litter from the shoreline at times.\p"
-	.string "Dirty water becomes rain and joins our\n"
-	.string "rivers, which we drink from…\p"
-	.string "If we pollute the sea, it all comes\n"
-	.string "back to haunt us eventually.$"
+	.string "Air di sekitar sini bersih.\p"
+	.string "Tapi, Aku menyuruh ZIGZAGOON-ku untuk\n"
+	.string "mengambil sampah dari garis pantai sesekali.\p"
+	.string "Air kotor menjadi hujan dan bergabung dengan\n"
+	.string "sungai-sungai kita, yang kita minum darinya…\p"
+	.string "Jika kita mencemari laut, semua itu akan\n"
+	.string "kembali menghantui kita pada akhirnya.$"
 
 Route109_Text_ZigzagoonCry:
 	.string "ZIGZAGOON: Guguu?$"
 
 Route109_Text_SeashoreHouseSign:
-	.string "SEASHORE HOUSE\p"
-	.string "“May hot battles rage on hot sands!\n"
-	.string "The place for hot TRAINERS!”$"
+	.string "RUMAH PANTAI\p"
+	.string "“Semoga pertarungan sengit berkobar di pasir panas!\n"
+	.string "Tempatnya TRAINER yang bersemangat!”$"
 
 Route109_Text_TrainerTipsSign:
-	.string "TRAINER TIPS\p"
-	.string "POKéMON at the same level may not\n"
-	.string "always have identical stats.\p"
-	.string "POKéMON raised by TRAINERS are said\n"
-	.string "to grow stronger than wild POKéMON.$"
+	.string "TIPS TRAINER\p"
+	.string "POKéMON pada level yang sama mungkin tidak\n"
+	.string "selalu memiliki statistik yang identik.\p"
+	.string "POKéMON yang dilatih oleh TRAINER dikatakan\n"
+	.string "tumbuh lebih kuat dari POKéMON liar.$"

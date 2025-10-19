@@ -187,7 +187,6 @@ static void TurnNPCIntoFollower(u32 localId, u32 followerFlags, u32 setScript, c
     u32 npcY = gObjectEvents[eventObjId].currentCoords.y;
     const u8 *script;
     u32 flag;
-    u16 facingDirection = gObjectEvents[eventObjId].facingDirection;
 
     flag = GetObjectEventFlagIdByLocalIdAndMap(localId, gSaveBlock1Ptr->location.mapNum, gSaveBlock1Ptr->location.mapGroup);
     // If the object does not have an event flag, don't create follower.
@@ -211,7 +210,7 @@ static void TurnNPCIntoFollower(u32 localId, u32 followerFlags, u32 setScript, c
     SetFollowerNPCData(FNPC_DATA_OBJ_ID, TrySpawnObjectEventTemplate(&npc, gSaveBlock1Ptr->location.mapNum, gSaveBlock1Ptr->location.mapGroup, npcX, npcY));
     follower = &gObjectEvents[GetFollowerNPCData(FNPC_DATA_OBJ_ID)];
     MoveObjectEventToMapCoords(follower, npcX, npcY);
-    ObjectEventTurn(follower, facingDirection);
+    ObjectEventTurn(follower, gObjectEvents[eventObjId].facingDirection);
     follower->movementType = MOVEMENT_TYPE_NONE;
     gSprites[follower->spriteId].callback = MovementType_None;
 

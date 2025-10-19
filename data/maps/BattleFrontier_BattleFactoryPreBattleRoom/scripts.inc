@@ -453,202 +453,202 @@ BattleFrontier_BattleFactoryPreBattleRoom_Movement_AttendantReturnToPlayer:
 	step_end
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_HoldMonsChooseFromSelection:
-	.string "First, we will hold your POKéMON for\n"
-	.string "safekeeping.\p"
-	.string "You may then choose from our\n"
-	.string "selection of POKéMON.$"
+	.string "Pertama, POKéMON-mu akan kami\n"
+	.string "simpan untuk keamanan.\p"
+	.string "Kamu kemudian bisa memilih dari\n"
+	.string "pilihan POKéMON kami.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons:
-	.string "Thank you for competing!\n"
-	.string "Let us restore your POKéMON!$"
+	.string "Terima kasih sudah bertanding!\n"
+	.string "Mari kami pulihkan POKéMON-mu!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "The 2nd match is next!\n"
-	.string "Are you ready?$"
+	.string "Pertandingan ke-2 berikutnya!\n"
+	.string "Apakah kamu siap?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "The 3rd match is next!\n"
-	.string "Are you ready?$"
+	.string "Pertandingan ke-3 berikutnya!\n"
+	.string "Apakah kamu siap?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor4thOpponent:
-	.string "The 4th match is next!\n"
-	.string "Are you ready?$"
+	.string "Pertandingan ke-4 berikutnya!\n"
+	.string "Apakah kamu siap?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor5thOpponent:
-	.string "The 5th match is next!\n"
-	.string "Are you ready?$"
+	.string "Pertandingan ke-5 berikutnya!\n"
+	.string "Apakah kamu siap?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor6thOpponent:
-	.string "The 6th match is next!\n"
-	.string "Are you ready?$"
+	.string "Pertandingan ke-6 berikutnya!\n"
+	.string "Apakah kamu siap?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor7thOpponent:
-	.string "Finally, the 7th match is next!\n"
-	.string "Are you ready?$"
+	.string "Akhirnya, pertandingan ke-7 berikutnya!\n"
+	.string "Apakah kamu siap?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "Apakah kamu ingin menyimpan dan keluar\n"
+	.string "dari permainan?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RetireFromChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Battle Swap challenge?$"
+	.string "Apakah kamu ingin pensiun dari\n"
+	.string "tantangan Battle Swap-mu?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent:
-	.string "I've conducted a little investigation\n"
-	.string "about your upcoming opponent.$"
+	.string "Aku sudah melakukan sedikit investigasi\n"
+	.string "tentang lawanmu yang akan datang.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInNormalType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the NORMAL type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe NORMAL.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFireType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FIRE type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe FIRE.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInWaterType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the WATER type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe WATER.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInElectricType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ELECTRIC type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe ELECTRIC.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGrassType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GRASS type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe GRASS.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInIceType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ICE type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe ICE.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFightingType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FIGHTING type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe FIGHTING.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPoisonType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the POISON type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe POISON.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGroundType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GROUND type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe GROUND.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFlyingType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FLYING type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe FLYING.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPsychicType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the PSYCHIC type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe PSYCHIC.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInBugType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the BUG type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe BUG.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInRockType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ROCK type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe ROCK.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGhostType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GHOST type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe GHOST.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDragonType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DRAGON type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe DRAGON.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DARK type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe DARK.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFairyType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FAIRY type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe FAIRY.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the STEEL type.$"
+	.string "TRAINER itu tampaknya terampil\n"
+	.string "dalam menangani tipe STEEL.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerHasNoClearFavorite:
-	.string "The TRAINER appears to have no clear\n"
-	.string "favorites when it comes to type.$"
+	.string "TRAINER itu tampaknya tidak punya\n"
+	.string "favorit yang jelas dalam hal tipe.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleSlowAndSteady:
-	.string "The favorite battle style appears to\n"
-	.string "be slow and steady.$"
+	.string "Gaya bertarung favorit tampaknya\n"
+	.string "lambat dan stabil.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleEndurance:
-	.string "The favorite battle style appears to\n"
-	.string "be one of endurance.$"
+	.string "Gaya bertarung favorit tampaknya\n"
+	.string "adalah ketahanan.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleHighRisk:
-	.string "The favorite battle style appears to\n"
-	.string "be high risk, high return.$"
+	.string "Gaya bertarung favorit tampaknya\n"
+	.string "berisiko tinggi, hasil tinggi.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleDependsOnFlow:
-	.string "The favorite battle style appears to\n"
-	.string "depend on the battle's flow.$"
+	.string "Gaya bertarung favorit tampaknya\n"
+	.string "bergantung pada alur pertempuran.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleTotalPreparation:
-	.string "The favorite battle style appears to\n"
-	.string "be one based on total preparation.$"
+	.string "Gaya bertarung favorit tampaknya\n"
+	.string "adalah yang berdasarkan persiapan total.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleWeakenFoe:
-	.string "The favorite battle style appears\n"
-	.string "to be weakening the foe to start.$"
+	.string "Gaya bertarung favorit tampaknya\n"
+	.string "adalah melemahkan musuh di awal.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleFlexible:
-	.string "The favorite battle style appears to\n"
-	.string "be flexibly adaptable to the situation.$"
+	.string "Gaya bertarung favorit tampaknya\n"
+	.string "fleksibel dan dapat beradaptasi dengan situasi.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleImpossibleToPredict:
-	.string "The favorite battle style appears to\n"
-	.string "be impossible to predict.$"
+	.string "Gaya bertarung favorit tampaknya\n"
+	.string "tidak mungkin diprediksi.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleUnrestrained:
-	.string "The favorite battle style appears to\n"
-	.string "be free-spirited and unrestrained.$"
+	.string "Gaya bertarung favorit tampaknya\n"
+	.string "bersemangat bebas dan tidak terkendali.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LikeToSwapMon:
-	.string "Before starting the battle, would you\n"
-	.string "like to swap a POKéMON?$"
+	.string "Sebelum memulai pertempuran, apakah kamu\n"
+	.string "ingin menukar POKéMON?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_YourSwapIsComplete:
-	.string "Thank you!\n"
-	.string "Your POKéMON swap is complete.$"
+	.string "Terima kasih!\n"
+	.string "Pertukaran POKéMON-mu selesai.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RightThisWay:
-	.string "Right this way, please!$"
+	.string "Lewat sini, silakan!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SavingDataPleaseWait:
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.string "Aku menyimpan datamu.\n"
+	.string "Mohon tunggu.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RecordLatestBattle:
-	.string "Would you like to record your latest\n"
-	.string "battle on your FRONTIER PASS?$"
+	.string "Apakah kamu ingin merekam pertempuran terakhirmu\n"
+	.string "di FRONTIER PASS-mu?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_WaitFewMoments:
-	.string "Excuse me! Excuse me, please!\n"
-	.string "May I get you to wait a few moments?$"
+	.string "Permisi! Permisi, tolong!\n"
+	.string "Bisakah kamu menunggu sebentar?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_UnderstoodSirWillDo:
-	.string "…Uh-huh? What?! …Whoa!\n"
-	.string "Understood, sir! Will do!$"
+	.string "…Uh-huh? Apa?! …Wah!\n"
+	.string "Dimengerti, tuan! Akan kulakukan!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow:
-	.string "Oh, my…\n"
-	.string "Sorry to keep you waiting!\p"
-	.string "I have a message from this facility's\n"
-	.string "boss, the FACTORY HEAD.\p"
-	.string "He says, “We're going to do it!\n"
-	.string "Come here right now!”$"
+	.string "Oh, ya ampun…\n"
+	.string "Maaf membuatmu menunggu!\p"
+	.string "Aku punya pesan dari bos fasilitas ini,\n"
+	.string "FACTORY HEAD.\p"
+	.string "Dia bilang, “Kita akan melakukannya!\n"
+	.string "Datang ke sini sekarang juga!”$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_PreparedToFaceHead:
-	.string "The FACTORY HEAD is demanding you.\n"
-	.string "Are you prepared to face him?$"
+	.string "FACTORY HEAD menuntutmu.\n"
+	.string "Apakah kamu siap menghadapinya?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_CantTellAnythingAboutHead:
-	.string "I'm terribly sorry, but I can't tell you\n"
-	.string "anything about the FACTORY HEAD.$"
+	.string "Aku sangat menyesal, tapi aku tidak bisa memberitahumu\n"
+	.string "apa pun tentang FACTORY HEAD.$"

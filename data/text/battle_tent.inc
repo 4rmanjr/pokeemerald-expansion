@@ -1,433 +1,430 @@
 FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "I welcome you to the BATTLE TENT\n"
-	.string "FALLARBOR SITE!\p"
-	.string "I am your guide to the Set KO Tourney!$"
+.string "Selamat datang di TENDA PERTARUNGAN\n"
+.string "SITUS FALLARBOR!\p"
+.string "Akulah pemandumu untuk Turnamen Set KO!$"
 
 FallarborTown_BattleTentLobby_Text_TakeChallenge:
-	.string "Now, do you wish to take the challenge\n"
-	.string "of a Set KO Tourney?$"
+.string "Nah, apa kamu ingin menerima tantangan\n"
+.string "Turnamen Set KO?$"
 
 FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge:
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+.string "Kami menantikan tantanganmu di\n"
+.string "kesempatan lain!$"
 
 FallarborTown_BattleTentLobby_Text_ExplainFallarborTent:
-	.string "In the FALLARBOR BATTLE TENT,\n"
-	.string "we undertake the Set KO Tourney.\p"
-	.string "All participants enter with a team of\n"
-	.string "three POKéMON.\p"
-	.string "The three POKéMON must be lined up\n"
-	.string "in the order that they are to appear in.\p"
-	.string "During battle, the POKéMON will appear\n"
-	.string "one at a time in the preset order.\p"
-	.string "Once a POKéMON enters battle, it must\n"
-	.string "remain out until the match is decided.\p"
-	.string "If a match remains undecided in\n"
-	.string "three turns, it goes to judging.\p"
-	.string "If you wish to interrupt your challenge,\n"
-	.string "please save the game.\p"
-	.string "If you don't save, you will not be able\n"
-	.string "to continue with your challenge.\p"
-	.string "If you pull off the feat of beating\n"
-	.string "three TRAINERS in succession,\l"
-	.string "we will present you with a fine prize.$"
+.string "Di TENDA PERTARUNGAN FALLARBOR,\n"
+.string "kita akan mengikuti Turnamen Set KO.\p"
+.string "Semua peserta masuk dengan tim berisi\n"
+.string "tiga POKéMON.\p"
+.string "Ketiga POKéMON harus diatur sesuai\n"
+.string "urutan kemunculannya.\p"
+.string "Selama pertarungan, POKéMON akan muncul\n"
+.string "satu per satu sesuai urutan yang ditentukan.\p"
+.string "Sekali POKéMON masuk ke pertarungan, ia harus\n"
+.string "tetap di sana sampai pertandingan selesai.\p"
+.string "Jika pertandingan belum selesai dalam\n"
+.string "tiga giliran, akan ada penilaian.\p"
+.string "Jika kamu ingin menghentikan tantanganmu,\n"
+.string "silakan simpan permainan.\p"
+.string "Jika tidak disimpan, kamu tidak akan bisa\n"
+.string "melanjutkan tantanganmu.\p"
+.string "Jika kamu berhasil mengalahkan\n"
+.string "tiga TRAINER berturut-turut,\l"
+.string "kami akan memberimu hadiah menarik.$"
 
 FallarborTown_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "Before showing you to the BATTLE\n"
-	.string "TENT, I must save. Is that okay?$"
+.string "Sebelum membawamu ke TENDA PERTARUNGAN,\n"
+.string "aku harus menyimpan. Boleh?$"
 
 @ Unused
 FallarborTown_BattleTentLobby_Text_WhichLevelMode:
-	.string "We offer two levels of challenge,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which is your choice?$"
+.string "Kami menawarkan dua level tantangan,\n"
+.string "Level 50 dan Open Level.\l"
+.string "Mana pilihanmu?$"
 
 FallarborTown_BattleTentLobby_Text_SelectThreeMons:
-	.string "Very well, now select your\n"
-	.string "three POKéMON, please.$"
+.string "Baiklah, sekarang pilih\n"
+.string "tiga POKéMON-mu, silakan.$"
 
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
-	.string "My dear challenger!\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for entry.\p"
-	.string "They also must not hold the same\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you have made your preparations,\n"
-	.string "please do return.$"
+.string "Wahai penantang!\p"
+.string "Kamu tidak punya tiga POKéMON\n"
+.string "yang diperlukan untuk masuk.\p"
+.string "Mereka juga tidak boleh memegang\n"
+.string "item yang sama.\p"
+.string "EGG{STR_VAR_1} tidak memenuhi syarat.\p"
+.string "Jika sudah siap,\n"
+.string "silakan kembali.$"
 
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "My dear challenger!\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for entry.\p"
-	.string "To qualify, you must bring three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not hold the same\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you have made your preparations,\n"
-	.string "please do return.$"
+.string "Wahai penantang!\p"
+.string "Kamu tidak punya tiga POKéMON\n"
+.string "yang diperlukan untuk masuk.\p"
+.string "Untuk lolos, kamu harus membawa tiga\n"
+.string "jenis POKéMON yang berbeda.\p"
+.string "Mereka juga tidak boleh memegang\n"
+.string "item yang sama.\p"
+.string "EGG{STR_VAR_1} tidak memenuhi syarat.\p"
+.string "Jika sudah siap,\n"
+.string "silakan kembali.$"
 
 FallarborTown_BattleTentLobby_Text_GuideYouToBattleTent:
-	.string "I shall now guide you to\n"
-	.string "the BATTLE TENT.$"
+.string "Sekarang akan kubimbing kamu ke\n"
+.string "TENDA PERTARUNGAN.$"
 
 FallarborTown_BattleTentLobby_Text_DidntSaveBeforeQuitting:
-	.string "My dear challenger!\p"
-	.string "You did not save the game before\n"
-	.string "shutting down, did you?\p"
-	.string "It is unfortunate, but that has\n"
-	.string "resulted in your disqualification\l"
-	.string "from your challenge.\p"
-	.string "You may, of course, start with a fresh\n"
-	.string "challenge.$"
+.string "Wahai penantang!\p"
+.string "Kamu tidak menyimpan permainan sebelum\n"
+.string "mematikannya, kan?\p"
+.string "Sayang sekali, tapi itu membuatmu\n"
+.string "didiskualifikasi dari tantanganmu.\p"
+.string "Tentu saja, kamu boleh memulai\n"
+.string "tantangan baru.$"
 
 FallarborTown_BattleTentLobby_Text_BeatThreeTrainers:
-	.string "How splendid! You have beaten\n"
-	.string "three TRAINERS in succession!$"
+.string "Luar biasa! Kamu telah mengalahkan\n"
+.string "tiga TRAINER berturut-turut!$"
 
 FallarborTown_BattleTentLobby_Text_WaitWhileSaveGame:
-	.string "Please wait while I save the game.$"
+.string "Tunggu sebentar selagi aku menyimpan permainan.$"
 
 FallarborTown_BattleTentLobby_Text_PresentYouWithPrize:
-	.string "In commemoration of your 3-win streak,\n"
-	.string "we present you with this prize.$"
+.string "Untuk merayakan 3 kemenangan beruntunmu,\n"
+.string "kami berikan hadiah ini.$"
 
 FallarborTown_BattleTentLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+.string "Hadiah {STR_VAR_1} didapatkan.$"
 
 FallarborTown_BattleTentLobby_Text_BagFullReturnForPrize:
-	.string "Oh?\n"
-	.string "Your BAG seems to be full.\p"
-	.string "I urge you to clear space and\n"
-	.string "return for your prize.$"
+.string "Oh?\n"
+.string "BAG-mu sepertinya penuh.\p"
+.string "Tolong kosongkan ruang dan\n"
+.string "kembali lagi untuk mengambil hadiahmu.$"
 
 FallarborTown_BattleTentLobby_Text_ThankYouWaitWhileSaving:
-	.string "Thank you so much for participating!\p"
-	.string "Please wait while I save the game.$"
+.string "Terima kasih banyak telah berpartisipasi!\p"
+.string "Tunggu sebentar selagi aku menyimpan permainan.$"
 
 FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge2:
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+.string "Kami menantikan tantanganmu di\n"
+.string "kesempatan lain!$"
 
 FallarborTown_BattleTentLobby_Text_LookingForwardToArrival:
-	.string "We have been looking forward to\n"
-	.string "your arrival.\p"
-	.string "Before I show you to the BATTLE TENT,\n"
-	.string "I must save the game. Please wait.$"
+.string "Kami sudah menantikan\n"
+.string "kedatanganmu.\p"
+.string "Sebelum aku membawamu ke TENDA PERTARUNGAN,\n"
+.string "aku harus menyimpan permainan. Mohon tunggu.$"
 
 VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "I welcome you to the BATTLE TENT\n"
-	.string "VERDANTURF SITE!\p"
-	.string "Here, the TRAINER's trust toward\n"
-	.string "POKéMON is tested.$"
+.string "Selamat datang di TENDA PERTARUNGAN\n"
+.string "SITUS VERDANTURF!\p"
+.string "Di sini, kepercayaan TRAINER terhadap\n"
+.string "POKéMON diuji.$"
 
 VerdanturfTown_BattleTentLobby_Text_TakeChallenge:
-	.string "Do you wish to take the VERDANTURF\n"
-	.string "BATTLE TENT challenge?$"
+.string "Apa kamu ingin menerima tantangan\n"
+.string "TENDA PERTARUNGAN VERDANTURF?$"
 
 VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
-	.string "In the VERDANTURF BATTLE TENT,\n"
-	.string "there is one crucial rule that must\l"
-	.string "be obeyed.\p"
-	.string "TRAINERS are permitted only to switch\n"
-	.string "their POKéMON in and out.\p"
-	.string "TRAINERS are otherwise forbidden to\n"
-	.string "command their POKéMON.\p"
-	.string "The POKéMON are to behave according\n"
-	.string "to their nature and battle on their own.\p"
-	.string "You must put your trust in your\n"
-	.string "POKéMON and watch over them.\p"
-	.string "If you achieve the honor of beating\n"
-	.string "three TRAINERS in succession,\l"
-	.string "we will present you with a prize.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+.string "Di TENDA PERTARUNGAN VERDANTURF,\n"
+.string "ada satu aturan penting yang harus\l"
+.string "ditaati.\p"
+.string "TRAINER hanya diizinkan untuk menukar\n"
+.string "POKéMON mereka masuk dan keluar.\p"
+.string "Selain itu, TRAINER dilarang\n"
+.string "memerintah POKéMON mereka.\p"
+.string "POKéMON harus bertindak sesuai\n"
+.string "sifatnya dan bertarung sendiri.\p"
+.string "Kamu harus percaya pada POKéMON-mu\n"
+.string "dan mengawasi mereka.\p"
+.string "Jika kamu berhasil mengalahkan\n"
+.string "tiga TRAINER berturut-turut,\l"
+.string "kami akan memberimu hadiah.\p"
+.string "Jika kamu ingin menghentikan\n"
+.string "tantanganmu, silakan simpan permainan.\p"
+.string "Jika tidak disimpan sebelum berhenti,\n"
+.string "kamu akan didiskualifikasi.$"
 
 VerdanturfTown_BattleTentLobby_Text_ReturnFortified:
-	.string "When you have fortified your heart\n"
-	.string "and POKéMON, you must return.$"
+.string "Saat hatimu dan POKéMON-mu sudah\n"
+.string "lebih kuat, kamu harus kembali.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_WhichLevelMode:
-	.string "There are two levels of difficulty,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which is your choice of a challenge?$"
+.string "Ada dua tingkat kesulitan,\n"
+.string "Level 50 dan Open Level.\l"
+.string "Tantangan mana yang kamu pilih?$"
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
-	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for the challenge.\p"
-	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not be holding\n"
-	.string "the same kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Come back when you have made\n"
-	.string "your preparations.$"
+.string "Hhh…\p"
+.string "Kamu tidak punya tiga POKéMON\n"
+.string "yang dibutuhkan untuk tantangan ini.\p"
+.string "Untuk masuk, kamu harus menyediakan tiga\n"
+.string "jenis POKéMON yang berbeda.\p"
+.string "Mereka juga tidak boleh memegang\n"
+.string "item yang sama.\p"
+.string "EGG{STR_VAR_1} tidak memenuhi syarat.\p"
+.string "Kembalilah setelah kamu\n"
+.string "bersiap-siap.$"
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for the challenge.\p"
-	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not be holding\n"
-	.string "the same kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Come back when you have made\n"
-	.string "your preparations.$"
+.string "Hhh…\p"
+.string "Kamu tidak punya tiga POKéMON\n"
+.string "yang dibutuhkan untuk tantangan ini.\p"
+.string "Untuk masuk, kamu harus menyediakan tiga\n"
+.string "jenis POKéMON yang berbeda.\p"
+.string "Mereka juga tidak boleh memegang\n"
+.string "item yang sama.\p"
+.string "EGG{STR_VAR_1} tidak memenuhi syarat.\p"
+.string "Kembalilah setelah kamu\n"
+.string "bersiap-siap.$"
 
 VerdanturfTown_BattleTentLobby_Text_SelectThreeMons:
-	.string "Good. Now, you must select your\n"
-	.string "three POKéMON.$"
+.string "Bagus. Sekarang, kamu harus memilih\n"
+.string "tiga POKéMON-mu.$"
 
 VerdanturfTown_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "I must save before I show you to\n"
-	.string "the BATTLE TENT. Is that okay?$"
+.string "Aku harus menyimpan sebelum membawamu ke\n"
+.string "TENDA PERTARUNGAN. Boleh?$"
 
 VerdanturfTown_BattleTentLobby_Text_NowFollowMe:
-	.string "Good.\n"
-	.string "Now, follow me.$"
+.string "Bagus.\n"
+.string "Sekarang, ikuti aku.$"
 
 VerdanturfTown_BattleTentLobby_Text_ResultsWillBeRecorded:
-	.string "I feel privileged for having seen\n"
-	.string "your POKéMON's exploits.\p"
-	.string "The results will be recorded.\n"
-	.string "I must ask you to briefly wait.$"
+.string "Aku merasa terhormat telah melihat\n"
+.string "kehebatan POKéMON-mu.\p"
+.string "Hasilnya akan dicatat.\n"
+.string "Aku minta kamu menunggu sebentar.$"
 
 VerdanturfTown_BattleTentLobby_Text_AchievedThreeWinStreak:
-	.string "To achieve a 3-win streak…\p"
-	.string "The bonds that bind your heart with\n"
-	.string "your POKéMON seem firm and true.$"
+.string "Mencapai 3 kemenangan beruntun…\p"
+.string "Ikatan yang mengikat hatimu dengan\n"
+.string "POKéMON-mu tampaknya kuat dan sejati.$"
 
 VerdanturfTown_BattleTentLobby_Text_FeatWillBeRecorded:
-	.string "Your feat will be recorded.\n"
-	.string "I must ask you to briefly wait.$"
+.string "Prestasimu akan dicatat.\n"
+.string "Aku minta kamu menunggu sebentar.$"
 
 VerdanturfTown_BattleTentLobby_Text_PresentYouWithPrize:
-	.string "For the feat of your 3-win streak,\n"
-	.string "we present you with this prize.$"
+.string "Atas prestasi 3 kemenangan beruntunmu,\n"
+.string "kami berikan hadiah ini.$"
 
 SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "Welcome to the BATTLE TENT\n"
-	.string "SLATEPORT SITE!\p"
-	.string "I am your guide to the Battle Swap\n"
-	.string "Tournament.$"
+.string "Selamat datang di TENDA PERTARUNGAN\n"
+.string "SITUS SLATEPORT!\p"
+.string "Akulah pemandumu untuk Turnamen\n"
+.string "Battle Swap.$"
 
 SlateportCity_BattleTentLobby_Text_TakeChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Swap challenge?$"
+.string "Apa kamu mau menerima tantangan\n"
+.string "Battle Swap?$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
-	.string "Here at the SLATEPORT BATTLE TENT,\n"
-	.string "we hold Battle Swap events\l"
-	.string "using rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a SINGLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win three times in\l"
-	.string "a row, you will earn a fine prize.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+.string "Di TENDA PERTARUNGAN SLATEPORT,\n"
+.string "kami mengadakan acara Battle Swap\l"
+.string "menggunakan POKéMON sewaan.\p"
+.string "Pertama, kamu akan dipinjami tiga\n"
+.string "POKéMON khusus untuk acara ini.\p"
+.string "Dengan POKéMON sewaan yang diberikan,\n"
+.string "kamu harus melakukan SINGLE BATTLE.\p"
+.string "Jika menang, kamu diizinkan menukar\n"
+.string "satu POKéMON sewaanmu.\p"
+.string "Ulangi siklus bertarung dan\n"
+.string "bertukar ini--jika kamu menang tiga kali\l"
+.string "berturut-turut, kamu akan mendapatkan hadiah menarik.\p"
+.string "Jika kamu ingin menghentikan\n"
+.string "tantanganmu, silakan simpan permainan.\p"
+.string "Jika tidak disimpan sebelum berhenti,\n"
+.string "kamu akan didiskualifikasi.$"
 
 SlateportCity_BattleTentLobby_Text_LookForwardToNextVisit:
-	.string "We look forward to your next visit.$"
+.string "Kami menantikan kunjunganmu berikutnya.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_WhichLevelMode:
-	.string "Which level do you wish to challenge?\n"
-	.string "Level 50 or Level 100?$"
+.string "Level mana yang ingin kamu tantang?\n"
+.string "Level 50 atau Level 100?$"
 
 SlateportCity_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "Before you begin your challenge,\n"
-	.string "I need to save data. Is that okay?$"
+.string "Sebelum kamu memulai tantanganmu,\n"
+.string "aku perlu menyimpan data. Boleh?$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping:
-	.string "Okay, I will hold your POKéMON for\n"
-	.string "safekeeping while you compete.$"
+.string "Oke, aku akan menyimpan POKéMON-mu\n"
+.string "selama kamu bertanding.$"
 
 SlateportCity_BattleTentLobby_Text_StepThisWay:
-	.string "Please step this way.$"
+.string "Silakan lewat sini.$"
 
 SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults:
-	.string "Thank you for participating!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save your event results.\n"
-	.string "Please wait.$"
+.string "Terima kasih telah berpartisipasi!\p"
+.string "Akan kukembalikan POKéMON-mu sebagai ganti\n"
+.string "POKéMON sewaan kami.\p"
+.string "Aku juga harus menyimpan hasil acaramu.\n"
+.string "Mohon tunggu.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnMonsExchangeRentals:
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.$"
+.string "Akan kukembalikan POKéMON-mu sebagai ganti\n"
+.string "POKéMON sewaan kami.$"
 
 SlateportCity_BattleTentLobby_Text_WonThreeMatchesReturnMons:
-	.string "Congratulations!\n"
-	.string "You've won three straight matches!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save your event results.\n"
-	.string "Please wait.$"
+.string "Selamat!\n"
+.string "Kamu telah memenangkan tiga pertandingan beruntun!\p"
+.string "Akan kukembalikan POKéMON-mu sebagai ganti\n"
+.string "POKéMON sewaan kami.\p"
+.string "Aku juga harus menyimpan hasil acaramu.\n"
+.string "Mohon tunggu.$"
 
 SlateportCity_BattleTentLobby_Text_AwardYouThisPrize:
-	.string "In recognition of your 3-win streak,\n"
-	.string "we award you this prize.$"
+.string "Sebagai pengakuan atas 3 kemenangan beruntunmu,\n"
+.string "kami berikan hadiah ini.$"
 
 SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom:
-	.string "Oh?\n"
-	.string "You seem to have no room for this.\p"
-	.string "Please make room in your BAG and\n"
-	.string "let me know.$"
+.string "Oh?\n"
+.string "Sepertinya tidak ada ruang untuk ini.\p"
+.string "Tolong kosongkan ruang di BAG-mu dan\n"
+.string "beri tahu aku.$"
 
 SlateportCity_BattleTentLobby_Text_BeenWaitingForYou:
-	.string "We've been waiting for you!\p"
-	.string "Before we resume your challenge,\n"
-	.string "I must save the game.$"
+.string "Kami sudah menunggumu!\p"
+.string "Sebelum kita melanjutkan tantanganmu,\n"
+.string "aku harus menyimpan permainan.$"
 
 SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting:
-	.string "I'm sorry to say this, but you didn't\n"
-	.string "save before you quit playing last time.\p"
-	.string "As a result, you have been disqualified\n"
-	.string "from your challenge.$"
+.string "Maaf harus mengatakan ini, tapi kamu tidak\n"
+.string "menyimpan sebelum berhenti bermain terakhir kali.\p"
+.string "Akibatnya, kamu telah didiskualifikasi\n"
+.string "dari tantanganmu.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnPersonalMons:
-	.string "We'll return your personal POKéMON.$"
+.string "Kami akan kembalikan POKéMON pribadimu.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+.string "Hadiah {STR_VAR_1} didapatkan.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_RulesAreListed:
-	.string "The Battle Swap rules are listed.$"
+.string "Aturan Battle Swap tercantum.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+.string "Judul mana yang ingin kamu baca?$"
 
 SlateportCity_BattleTentLobby_Text_ExplainBasicRules:
-	.string "In a Battle Swap event, you may use\n"
-	.string "only three POKéMON.\p"
-	.string "Whether you are renting or swapping,\n"
-	.string "your team may not have two or more\l"
-	.string "of the same POKéMON.$"
+.string "Dalam acara Battle Swap, kamu hanya boleh menggunakan\n"
+.string "tiga POKéMON.\p"
+.string "Baik saat menyewa atau bertukar,\n"
+.string "timmu tidak boleh memiliki dua atau lebih\l"
+.string "POKéMON yang sama.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapPartnerRules:
-	.string "You may swap POKéMON only with\n"
-	.string "the TRAINER you have just defeated.\p"
-	.string "You may swap for only those POKéMON\n"
-	.string "used by the beaten TRAINER.$"
+.string "Kamu hanya boleh bertukar POKéMON dengan\n"
+.string "TRAINER yang baru saja kamu kalahkan.\p"
+.string "Kamu hanya boleh bertukar dengan POKéMON\n"
+.string "yang digunakan oleh TRAINER yang kalah itu.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNumberRules:
-	.string "After every battle you win, you may\n"
-	.string "swap for one of your defeated\l"
-	.string "opponent's POKéMON.\p"
-	.string "You will not be able to swap POKéMON\n"
-	.string "with the third TRAINER in the event.$"
+.string "Setelah setiap pertarungan yang kamu menangkan, kamu boleh\n"
+.string "bertukar dengan satu POKéMON lawanmu\l"
+.string "yang kalah.\p"
+.string "Kamu tidak akan bisa bertukar POKéMON\n"
+.string "dengan TRAINER ketiga di acara ini.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNotes:
-	.string "There are two key points to be aware\n"
-	.string "of when swapping POKéMON.\p"
-	.string "First, when swapping, you can't check\n"
-	.string "the stats of the POKéMON you are\l"
-	.string "about to receive.\p"
-	.string "Second, the POKéMON on your team\n"
-	.string "are lined up in sequence, depending on\l"
-	.string "the order in which you rented them.\p"
-	.string "This sequence remains unchanged\n"
-	.string "even when swaps are made.$"
+.string "Ada dua poin penting yang harus diperhatikan\n"
+.string "saat bertukar POKéMON.\p"
+.string "Pertama, saat bertukar, kamu tidak bisa memeriksa\n"
+.string "statistik POKéMON yang akan kamu\l"
+.string "terima.\p"
+.string "Kedua, POKéMON di timmu\n"
+.string "diurutkan secara berurutan, tergantung pada\l"
+.string "urutan saat kamu menyewanya.\p"
+.string "Urutan ini tidak berubah\n"
+.string "meskipun pertukaran dilakukan.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainMonRules:
-	.string "The POKéMON of the SLATEPORT\n"
-	.string "BATTLE TENT are all rentals.\p"
-	.string "All rental POKéMON are kept at\n"
-	.string "Level 30.$"
+.string "POKéMON di TENDA PERTARUNGAN\n"
+.string "SLATEPORT semuanya adalah sewaan.\p"
+.string "Semua POKéMON sewaan berada di\n"
+.string "Level 30.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_RulesAreListed2:
-	.string "The VERDANTURF BATTLE TENT\n"
-	.string "rules are listed.$"
+.string "Aturan TENDA PERTARUNGAN VERDANTURF\n"
+.string "tercantum.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+.string "Judul mana yang ingin kamu baca?$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainBasicRules:
-	.string "Here at the VERDANTURF BATTLE TENT,\n"
-	.string "POKéMON are required to think and\l"
-	.string "battle by themselves.\p"
-	.string "Unlike in the wild, POKéMON that live\n"
-	.string "with people behave differently\l"
-	.string "depending on their nature.$"
+.string "Di TENDA PERTARUNGAN VERDANTURF,\n"
+.string "POKéMON diharuskan berpikir dan\l"
+.string "bertarung sendiri.\p"
+.string "Tidak seperti di alam liar, POKéMON yang hidup\n"
+.string "dengan manusia berperilaku berbeda\l"
+.string "tergantung pada sifatnya.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainNatureRules:
-	.string "Depending on its nature, a POKéMON\n"
-	.string "may prefer to attack no matter what.\p"
-	.string "Another POKéMON may prefer to protect\n"
-	.string "itself from any harm.\p"
-	.string "Yet another may enjoy vexing or\n"
-	.string "confounding its foes.\p"
-	.string "Depending on its nature, a POKéMON\n"
-	.string "will have favorite moves that it is good\l"
-	.string "at using.\p"
-	.string "It may also dislike certain moves that\n"
-	.string "it has trouble using.$"
+.string "Tergantung pada sifatnya, POKéMON\n"
+.string "mungkin lebih suka menyerang apa pun yang terjadi.\p"
+.string "POKéMON lain mungkin lebih suka melindungi\n"
+.string "dirinya dari segala bahaya.\p"
+.string "Ada lagi yang mungkin suka mengganggu atau\n"
+.string "membuat bingung lawannya.\p"
+.string "Tergantung pada sifatnya, POKéMON\n"
+.string "akan memiliki jurus favorit yang pandai\l"
+.string "digunakannya.\p"
+.string "Ia mungkin juga tidak menyukai jurus tertentu yang\n"
+.string "sulit digunakannya.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules:
-	.string "There are offensive moves that inflict\n"
-	.string "direct damage on the foe.\p"
-	.string "There are defensive moves that are\n"
-	.string "used to prepare for enemy attacks or\l"
-	.string "used to heal HP and so on.\p"
-	.string "There are also other somewhat-odd\n"
-	.string "moves that may enfeeble the foes with\l"
-	.string "stat problems including poison and \l"
-	.string "paralysis.\p"
-	.string "POKéMON will consider using moves in\n"
-	.string "these three categories.$"
+.string "Ada jurus ofensif yang memberikan\n"
+.string "kerusakan langsung pada lawan.\p"
+.string "Ada jurus defensif yang\n"
+.string "digunakan untuk bersiap menghadapi serangan musuh atau\l"
+.string "digunakan untuk menyembuhkan HP dan sebagainya.\p"
+.string "Ada juga jurus lain yang agak aneh\n"
+.string "yang mungkin melemahkan lawan dengan\l"
+.string "masalah status termasuk racun dan\l"
+.string "kelumpuhan.\p"
+.string "POKéMON akan mempertimbangkan untuk menggunakan jurus dalam\n"
+.string "ketiga kategori ini.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules:
-	.string "When not under command by its TRAINER,\n"
-	.string "a POKéMON may be unable to effectively\l"
-	.string "use certain moves.\p"
-	.string "A POKéMON is not good at using any\n"
-	.string "move that it dislikes.\p"
-	.string "If a POKéMON only knows moves that\n"
-	.string "do not match its nature, it will often\l"
-	.string "be unable to live up to its potential.$"
+.string "Saat tidak diperintah oleh TRAINER-nya,\n"
+.string "POKéMON mungkin tidak dapat secara efektif\l"
+.string "menggunakan jurus tertentu.\p"
+.string "POKéMON tidak pandai menggunakan jurus\n"
+.string "apa pun yang tidak disukainya.\p"
+.string "Jika POKéMON hanya mengetahui jurus yang\n"
+.string "tidak sesuai dengan sifatnya, ia akan sering\l"
+.string "tidak dapat mencapai potensinya.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules:
-	.string "Depending on its nature, a POKéMON may\n"
-	.string "start using moves that don't match its\l"
-	.string "nature when it is in trouble.\p"
-	.string "If a POKéMON begins behaving oddly\n"
-	.string "in a pinch, watch it carefully.$"
+.string "Tergantung pada sifatnya, POKéMON mungkin\n"
+.string "mulai menggunakan jurus yang tidak cocok dengan\l"
+.string "sifatnya saat dalam kesulitan.\p"
+.string "Jika POKéMON mulai berperilaku aneh\n"
+.string "saat terdesak, perhatikan baik-baik.$"
 
 BattleTentLobby_Text_ExplainLevelRules:
-	.string "At this BATTLE TENT, the levels of\n"
-	.string "your opponents will be adjusted to\l"
-	.string "match the levels of your POKéMON.\p"
-	.string "However, no TRAINER you face will\n"
-	.string "have any POKéMON below Level 30.$"
+.string "Di TENDA PERTARUNGAN ini, level\n"
+.string "lawanmu akan disesuaikan untuk\l"
+.string "mencocokkan level POKéMON-mu.\p"
+.string "Namun, tidak ada TRAINER yang kamu hadapi\n"
+.string "akan memiliki POKéMON di bawah Level 30.$"
 
 VerdanturfTown_BattleTentLobby_Text_RulesAreListed:
-	.string "The VERDANTURF BATTLE TENT\n"
-	.string "rules are listed.$"
+.string "Aturan TENDA PERTARUNGAN VERDANTURF\n"
+.string "tercantum.$"

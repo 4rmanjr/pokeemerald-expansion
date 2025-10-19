@@ -59,14 +59,14 @@ SurfPichu_Slot5:
 	return
 
 sText_MysteryGiftEgg:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "From the POKéMON CENTER we\n"
-	.string "have a gift--a POKéMON EGG!\p"
-	.string "Please raise it with love and\n"
-	.string "kindness.$"
+	.string "Terima kasih telah menggunakan\n"
+	.string "Sistem MYSTERY GIFT.\p"
+	.string "Dari POKéMON CENTER kami\n"
+	.string "punya hadiah--sebuah POKéMON EGG!\p"
+	.string "Tolong besarkanlah dengan cinta dan\n"
+	.string "kebaikan.$"
 
 sText_FullParty:
-	.string "Oh, your party appears to be full.\p"
-	.string "Please come see me after storing\n"
-	.string "a POKéMON on a PC.$"
+	.string "Oh, party-mu sepertinya penuh.\p"
+	.string "Silakan temui aku setelah menyimpan\n"
+	.string "POKéMON di PC.$"

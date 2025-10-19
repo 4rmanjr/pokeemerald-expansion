@@ -32,77 +32,77 @@ VictoryRoad_B2F_EventScript_Dianne::
 	end
 
 VictoryRoad_B2F_Text_VitoIntro:
-	.string "I trained together with my whole family,\n"
-	.string "every one of us!\l"
-	.string "I'm not losing to anyone!$"
+	.string "Aku berlatih bersama seluruh keluargaku,\n"
+	.string "setiap orang dari kami!\l"
+	.string "Aku tidak akan kalah dari siapa pun!$"
 
 VictoryRoad_B2F_Text_VitoDefeat:
-	.string "Better than my family?!\n"
-	.string "Is that possible?!$"
+	.string "Lebih baik dari keluargaku?!\n"
+	.string "Apakah itu mungkin?!$"
 
 VictoryRoad_B2F_Text_VitoPostBattle:
-	.string "I was better than everyone in my\n"
-	.string "family. I've never lost before…\p"
-	.string "I've lost my confidence…\n"
-	.string "Maybe I'll go home…$"
+	.string "Aku lebih baik dari semua orang di\n"
+	.string "keluargaku. Aku tidak pernah kalah sebelumnya…\p"
+	.string "Aku kehilangan kepercayaan diriku…\n"
+	.string "Mungkin aku akan pulang…$"
 
 VictoryRoad_B2F_Text_OwenIntro:
-	.string "I'd heard that there was a tough\n"
-	.string "little kid around. Do they mean you?$"
+	.string "Aku dengar ada anak kecil yang tangguh\n"
+	.string "di sekitar sini. Apakah mereka maksud kamu?$"
 
 VictoryRoad_B2F_Text_OwenDefeat:
-	.string "The little shrimp is tough!$"
+	.string "Si udang kecil itu tangguh!$"
 
 VictoryRoad_B2F_Text_OwenPostBattle:
-	.string "The rumors I heard, that tough little\n"
-	.string "kid is from PETALBURG CITY.$"
+	.string "Rumor yang kudengar, anak kecil\n"
+	.string "tangguh itu dari PETALBURG CITY.$"
 
 VictoryRoad_B2F_Text_CarolineIntro:
-	.string "You must be getting a little tired.$"
+	.string "Kamu pasti mulai sedikit lelah.$"
 
 VictoryRoad_B2F_Text_CarolineDefeat:
-	.string "No signs of tiring at all!$"
+	.string "Tidak ada tanda-tanda kelelahan sama sekali!$"
 
 VictoryRoad_B2F_Text_CarolinePostBattle:
-	.string "VICTORY ROAD and the POKéMON LEAGUE\n"
-	.string "are long and grueling challenges.\l"
-	.string "Beware of fatigue!$"
+	.string "VICTORY ROAD dan POKéMON LEAGUE\n"
+	.string "adalah tantangan yang panjang dan melelahkan.\l"
+	.string "Hati-hati terhadap kelelahan!$"
 
 VictoryRoad_B2F_Text_JulieIntro:
-	.string "You shouldn't get complacent just\n"
-	.string "because you have a lot of GYM BADGES.\p"
-	.string "There's always going to be someone\n"
-	.string "who's better than you!$"
+	.string "Kamu tidak boleh berpuas diri hanya\n"
+	.string "karena kamu punya banyak GYM BADGES.\p"
+	.string "Akan selalu ada seseorang\n"
+	.string "yang lebih baik darimu!$"
 
 VictoryRoad_B2F_Text_JulieDefeat:
-	.string "You're better than me!$"
+	.string "Kamu lebih baik dariku!$"
 
 VictoryRoad_B2F_Text_JuliePostBattle:
-	.string "Gaze on your collected BADGES and\n"
-	.string "remember the TRAINERS you've faced.$"
+	.string "Lihatlah BADGES yang kamu kumpulkan dan\n"
+	.string "ingatlah TRAINER yang sudah kamu hadapi.$"
 
 VictoryRoad_B2F_Text_FelixIntro:
-	.string "I've come this far, but the tension's\n"
-	.string "giving me awful stomach pain…$"
+	.string "Aku sudah sejauh ini, tapi ketegangan\n"
+	.string "membuat perutku sakit sekali…$"
 
 VictoryRoad_B2F_Text_FelixDefeat:
 	.string "Ooh…\n"
-	.string "It hurts…$"
+	.string "Sakit sekali…$"
 
 VictoryRoad_B2F_Text_FelixPostBattle:
-	.string "I can't help getting all tense knowing\n"
-	.string "that I'm nearing the POKéMON LEAGUE.\p"
-	.string "It's all I can do to feign calm.$"
+	.string "Aku tidak bisa menahan ketegangan karena\n"
+	.string "aku mendekati POKéMON LEAGUE.\p"
+	.string "Yang bisa kulakukan hanyalah berpura-pura tenang.$"
 
 VictoryRoad_B2F_Text_DianneIntro:
-	.string "The elite among the elite gather in\n"
-	.string "this cave.\p"
-	.string "How are you finding it?$"
+	.string "Para elit di antara para elit berkumpul di\n"
+	.string "gua ini.\p"
+	.string "Bagaimana menurutmu?$"
 
 VictoryRoad_B2F_Text_DianneDefeat:
-	.string "Not rattled in the least bit!$"
+	.string "Tidak gentar sedikit pun!$"
 
 VictoryRoad_B2F_Text_DiannePostBattle:
-	.string "You do have guts! I like that!\n"
-	.string "Keep it going!$"
+	.string "Kamu memang punya nyali! Aku suka itu!\n"
+	.string "Teruslah berjuang!$"
 

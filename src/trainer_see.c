@@ -429,7 +429,7 @@ bool8 CheckForTrainersWantingBattle(void)
 
 static u8 CheckTrainer(u8 objectEventId)
 {
-    const u8 *trainerBattlePtr;
+    const u8 *scriptPtr, *trainerBattlePtr;
     u8 numTrainers = 1;
 
     u8 approachDistance = GetTrainerApproachDistance(&gObjectEvents[objectEventId]);
@@ -438,13 +438,13 @@ static u8 CheckTrainer(u8 objectEventId)
 
     if (InTrainerHill() == TRUE)
     {
-        trainerBattlePtr = GetTrainerHillTrainerScript();
+        trainerBattlePtr = scriptPtr = GetTrainerHillTrainerScript();
     }
     else
     {
-        trainerBattlePtr = GetObjectEventScriptPointerByObjectEventId(objectEventId);
+        trainerBattlePtr = scriptPtr = GetObjectEventScriptPointerByObjectEventId(objectEventId);
         struct ScriptContext ctx;
-        if (RunScriptImmediatelyUntilEffect(SCREFF_V1 | SCREFF_SAVE | SCREFF_HARDWARE | SCREFF_TRAINERBATTLE, trainerBattlePtr, &ctx))
+        if (RunScriptImmediatelyUntilEffect(SCREFF_V1 | SCREFF_SAVE | SCREFF_HARDWARE | SCREFF_TRAINERBATTLE, scriptPtr, &ctx))
         {
             if (*ctx.scriptPtr == 0x5c) // trainerbattle
                 trainerBattlePtr = ctx.scriptPtr;
@@ -492,7 +492,7 @@ static u8 CheckTrainer(u8 objectEventId)
     }
 
     gApproachingTrainers[gNoOfApproachingTrainers].objectEventId = objectEventId;
-    gApproachingTrainers[gNoOfApproachingTrainers].trainerScriptPtr = trainerBattlePtr;
+    gApproachingTrainers[gNoOfApproachingTrainers].trainerScriptPtr = scriptPtr;
     gApproachingTrainers[gNoOfApproachingTrainers].radius = approachDistance;
     InitTrainerApproachTask(&gObjectEvents[objectEventId], approachDistance - 1);
     gNoOfApproachingTrainers++;

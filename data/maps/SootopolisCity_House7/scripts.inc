@@ -10,17 +10,16 @@ SootopolisCity_House7_EventScript_PokefanF::
 	end
 
 SootopolisCity_House7_Text_CityFromEruptedVolcano:
-	.string "An underwater volcano erupted and\n"
-	.string "forced itself up from the depths.\p"
-	.string "Its crater emerged from the sea and\n"
-	.string "became filled with rainwater.\p"
-	.string "That's how SOOTOPOLIS CITY came into\n"
-	.string "being.$"
+	.string "Gunung berapi bawah laut meletus dan\n"
+	.string "memaksa dirinya muncul dari kedalaman.\p"
+	.string "Kawahnya muncul dari laut dan\n"
+	.string "terisi air hujan.\p"
+	.string "Begitulah SOOTOPOLIS CITY tercipta.$"
 
 SootopolisCity_House7_Text_CaveMadeToKeepSomething:
-	.string "The cave that links SOOTOPOLIS and\n"
-	.string "the outside world…\p"
-	.string "It seems as if the cave was made to\n"
-	.string "keep something from getting out.\p"
-	.string "Or am I just imagining things?$"
+	.string "Gua yang menghubungkan SOOTOPOLIS dan\n"
+	.string "dunia luar...\p"
+	.string "Sepertinya gua ini dibuat untuk\n"
+	.string "mencegah sesuatu keluar.\p"
+	.string "Atau aku hanya membayangkan saja?$"
 

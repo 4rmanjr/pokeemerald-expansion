@@ -20,104 +20,104 @@
 // Shared Move Description entries
 
 const u8 gNotDoneYetDescription[] = _(
-    "This move can't be used. Its\n"
-    "effect is in development.");
+    "Belum bisa digunakan.\n"
+    "Masih dalam pengembangan.");
 
 static const u8 sNullDescription[] = _("");
 
 static const u8 sMegaDrainDescription[] = _(
-    "An attack that absorbs\n"
-    "half the damage inflicted.");
+    "Menyerap separuh\n"
+    "kerusakan.");
 
 #if B_SKIP_RECHARGE != GEN_1
 static const u8 sHyperBeamDescription[] = _(
-    "Powerful, but leaves the\n"
-    "user immobile the next turn.");
+    "Kuat, tapi tak bergerak\n"
+    "di giliran berikutnya.");
 #else
 static const u8 sHyperBeamDescription[] = _(
-    "Leaves the user immobile\n"
-    "if target is not KO'd.");
+    "Tak bergerak jika lawan\n"
+    "tidak KO.");
 #endif
 
 static const u8 sRevengeDescription[] = _(
-    "An attack that moves last\n"
-    "and gains power if hit.");
+    "Lebih kuat jika terkena\n"
+    "serangan, tapi terakhir.");
 
 static const u8 sPluckDescription[] = _(
-    "Eats the foe's held Berry\n"
-    "gaining its effect.");
+    "Makan Berry lawan dan\n"
+    "dapat efeknya.");
 
 static const u8 sHealingWishDescription[] = _(
-    "The user faints to heal up\n"
-    "the recipient.");
+    "Pengguna pingsan untuk\n"
+    "sembuhkan rekan.");
 
 static const u8 sWringOutDescription[] = _(
-    "The higher the foe's HP\n"
-    "the more damage caused.");
+    "Semakin tinggi HP lawan,\n"
+    "semakin besar damage.");
 
 static const u8 sUTurnDescription[] = _(
-    "Does damage then switches\n"
-    "out the user.");
+    "Serang lalu ganti\n"
+    "pengguna keluar.");
 
 static const u8 sStormThrowDescription[] = _(
-    "This attack always results\n"
-    "in a critical hit.");
+    "Selalu jadi\n"
+    "serangan kritis.");
 
 static const u8 sCircleThrowDescription[] = _(
-    "Knocks foe away to switch\n"
-    "it out or end wild battle.");
+    "Lempar lawan keluar,\n"
+    "akhiri pertarungan liar.");
 
 static const u8 sChipAwayDescription[] = _(
-    "Strikes through the foe's\n"
-    "stat changes.");
+    "Abaikan perubahan\n"
+    "stat lawan.");
 
 static const u8 sHeavySlamDescription[] = _(
-    "Does more damage if the\n"
-    "user outweighs the foe.");
+    "Lebih kuat jika\n"
+    "lebih berat.");
 
 static const u8 sPsyshockDescription[] = _(
-    "Attacks with a psychic wave\n"
-    "that does physical damage.");
+    "Kerusakan fisik\n"
+    "dengan gelombang psikis.");
 
 static const u8 sLavaPlumeDescription[] = _(
-    "Scarlet flames torch\n"
-    "everything around the user.");
+    "Nyala merah bakar\n"
+    "musuh di sekitar.");
 
 static const u8 sShadowForceDescription[] = _(
-    "Vanishes on the first turn\n"
-    "then strikes the next turn.");
+    "Hilang di giliran 1,\n"
+    "serang di giliran 2.");
 
 static const u8 sFalseSwipeDescription[] = _(
-    "An attack that leaves the\n"
-    "foe with at least 1 HP.");
+    "Lawan tersisa\n"
+    "minimal 1 HP.");
 
 static const u8 sDrainingKissDescription[] = _(
-    "An attack that absorbs over\n"
-    "half the damage inflicted.");
+    "Serap lebih dari\n"
+    "separuh damage.");
 
 static const u8 sCloseCombatDescription[] = _(
-    "A strong attack but lowers\n"
-    "the defensive stats.");
+    "Serang kuat, turunkan\n"
+    "pertahanan sendiri.");
 
 static const u8 sHyperspaceHoleDescription[] = _(
-    "Uses a warp hole to attack.\n"
-    "Can't be evaded.");
+    "Serang lewat warp.\n"
+    "Tidak bisa dihindari.");
 
 static const u8 sSuckerPunchDescription[] = _(
-    "Strikes first if the foe\n"
-    "is preparing an attack.");
+    "Serang duluan jika\n"
+    "lawan siap menyerang.");
 
 static const u8 sFeintDescription[] = _(
-    "An attack that hits foes\n"
-    "using moves like Protect.");
+    "Tembus jurus seperti\n"
+    "Protect.");
 
 static const u8 sProtectDescription[] = _(
-    "Evades attack, but may fail\n"
-    "if used in succession.");
+    "Hindari serangan,\n"
+    "tapi bisa gagal.");
 
 static const u8 sGMaxOneBlowDescription[] = _(
-    "G-max Urshifu attack.\n"
-    "Ignores Max Guard.");
+    "Serangan G-Max.\n"
+    "Abaikan Max Guard.");
 
 const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 {
@@ -144,8 +144,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Pound"),
         .description = COMPOUND_STRING(
-            "Pounds the foe with\n"
-            "forelegs or tail."),
+            "Memukul musuh dengan\n"
+            "kaki depan atau ekor."),
         .effect = EFFECT_HIT,
         .power = 40,
         .type = TYPE_NORMAL,
@@ -167,8 +167,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Karate Chop"),
         .description = COMPOUND_STRING(
-            "A chopping attack with a\n"
-            "high critical-hit ratio."),
+            "Serangan sabetan dengan\n"
+            "rasio critical-hit tinggi."),
         .effect = EFFECT_HIT,
         .power = 50,
         .type = TYPE_FIGHTING,
@@ -191,8 +191,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Double Slap"),
         .description = COMPOUND_STRING(
-            "Repeatedly slaps the foe\n"
-            "2 to 5 times."),
+            "Menampar musuh secara\n"
+            "beruntun sebanyak 2-5 kali."),
         .effect = EFFECT_MULTI_HIT,
         .power = 15,
         .type = TYPE_NORMAL,
@@ -214,8 +214,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Comet Punch"),
         .description = COMPOUND_STRING(
-            "Repeatedly punches the foe\n"
-            "2 to 5 times."),
+            "Meninju musuh secara\n"
+            "beruntun sebanyak 2-5 kali."),
         .effect = EFFECT_MULTI_HIT,
         .power = 18,
         .type = TYPE_NORMAL,
@@ -237,8 +237,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Mega Punch"),
         .description = COMPOUND_STRING(
-            "A strong punch thrown with\n"
-            "incredible power."),
+            "Pukulan super kuat yang\n"
+            "dilontarkan sekuat tenaga."),
         .effect = EFFECT_HIT,
         .power = 80,
         .type = TYPE_NORMAL,
@@ -261,8 +261,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Pay Day"),
         .description = COMPOUND_STRING(
-            "Throws coins at the foe.\n"
-            "Money is recovered after."),
+            "Melempar koin ke musuh.\n"
+            "Uang akan didapat setelahnya."),
         .effect = EFFECT_HIT,
         .power = 40,
         .type = TYPE_NORMAL,
@@ -285,8 +285,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Fire Punch"),
         .description = COMPOUND_STRING(
-            "A fiery punch that may burn\n"
-            "the foe."),
+            "Pukulan berapi yang dapat\n"
+            "membakar target."),
         .effect = EFFECT_HIT,
         .power = 75,
         .type = TYPE_FIRE,
@@ -313,11 +313,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Ice Punch"),
         .description = COMPOUND_STRING(
-            "An icy punch that may\n"
+            "Pukulan es yang dapat\n"
         #if B_USE_FROSTBITE == TRUE
-            "leave the foe with frostbite."),
+            "menyebabkan status frostbite."),
         #else
-            "freeze the foe."),
+            "membekukan target."),
         #endif
         .effect = EFFECT_HIT,
         .power = 75,
@@ -345,8 +345,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Thunder Punch"),
         .description = COMPOUND_STRING(
-            "An electrified punch that\n"
-            "may paralyze the foe."),
+            "Pukulan berlistrik yang\n"
+            "dapat melumpuhkan target."),
         .effect = EFFECT_HIT,
         .power = 75,
         .type = TYPE_ELECTRIC,
@@ -373,8 +373,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Scratch"),
         .description = COMPOUND_STRING(
-            "Scratches the foe with\n"
-            "sharp claws."),
+            "Mencakar musuh dengan\n"
+            "cakar yang tajam."),
         .effect = EFFECT_HIT,
         .power = 40,
         .type = TYPE_NORMAL,
@@ -395,8 +395,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Vise Grip"),
         .description = COMPOUND_STRING(
-            "Grips the foe with large and\n"
-            "powerful pincers."),
+            "Jepit musuh menggunakan\n"
+            "capit yang besar dan kuat."),
         .effect = EFFECT_HIT,
         .power = 55,
         .type = TYPE_NORMAL,
@@ -417,8 +417,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Guillotine"),
         .description = COMPOUND_STRING(
-            "A powerful pincer attack\n"
-            "that KOs if it hits."),
+            "Serangan capit kuat yang\n"
+            "langsung membuat KO jika kena."),
         .effect = EFFECT_OHKO,
         .power = 1,
         .type = TYPE_NORMAL,
@@ -440,8 +440,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Razor Wind"),
         .description = COMPOUND_STRING(
-            "A 2-turn move with a high\n"
-            "critical-hit ratio."),
+            "Move 2 giliran dengan\n"
+            "rasio critical-hit tinggi."),
         .effect = EFFECT_TWO_TURNS_ATTACK,
         .power = 80,
         .type = TYPE_NORMAL,
@@ -466,8 +466,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Swords Dance"),
         .description = COMPOUND_STRING(
-            "A fighting dance that\n"
-            "sharply raises Attack."),
+            "Tarian pertarungan yang\n"
+            "menaikkan stat Attack drastis."),
         .effect = EFFECT_ATTACK_UP_2,
         .power = 0,
         .type = TYPE_NORMAL,
@@ -1206,8 +1206,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Leer"),
         .description = COMPOUND_STRING(
-            "Frightens the foes with a\n"
-            "leer to lower Defense."),
+            "Tatapan menakutkan yang\n"
+            "melemahkan pertahanan."),
         .effect = EFFECT_DEFENSE_DOWN,
         .power = 0,
         .type = TYPE_NORMAL,
@@ -2627,8 +2627,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Quick Attack"),
         .description = COMPOUND_STRING(
-            "An extremely fast attack\n"
-            "that always strikes first."),
+            "Serangan kilat yang selalu\n"
+            "menyerang duluan."),
         .effect = EFFECT_HIT,
         .power = 40,
         .type = TYPE_NORMAL,
@@ -9079,7 +9079,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
             "A life-risking tackle that\n"
             "slightly hurts the user."),
         #endif
-        .effect = EFFECT_RECOIL,
+        .effect = EFFECT_HIT,
         .power = 120,
         .type = TYPE_ELECTRIC,
         .accuracy = 100,
@@ -9355,8 +9355,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Roost"),
         .description = COMPOUND_STRING(
-            "Restores the user's HP by\n"
-            "half of its max HP."),
+            "Memulihkan HP pengguna hingga\n"
+            "setengah dari HP maksimumnya."),
         .effect = EFFECT_ROOST,
         .power = 0,
         .type = TYPE_FLYING,
@@ -15871,8 +15871,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Shore Up"),
         .description = COMPOUND_STRING(
-            "Restores the user's HP.\n"
-            "More HP in a sandstorm."),
+            "Memulihkan HP pengguna.\n"
+            "Lebih banyak HP saat badai pasir."),
         .effect = EFFECT_SHORE_UP,
         .power = 0,
         .type = TYPE_GROUND,
@@ -16149,8 +16149,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     {
         .name = COMPOUND_STRING("Leafage"),
         .description = COMPOUND_STRING(
-            "Attacks with a flurry of\n"
-            "small leaves."),
+            "Serangan dengan serangkaian\n"
+            "daun-daun kecil."),
         .effect = EFFECT_HIT,
         .power = 40,
         .type = TYPE_GRASS,

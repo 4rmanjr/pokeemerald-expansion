@@ -1,234 +1,248 @@
 PetalburgCity_Gym_Text_GiveEnigmaBerry:
-	.string "DAD: Hi, {PLAYER}!\p"
-	.string "I just received a very rare BERRY.\n"
-	.string "I'd like you to have it.$"
+	.string "AYAH: Hai, {PLAYER}!\p"
+	.string "Aku baru dapat BERRY\n"
+	.string "sangat langka.\n"
+	.string "Ini untukmu.$"
 
 Route104_Text_PlantBerriesInSoilTakeThis:
-	.string "If you see BERRIES growing in loamy\n"
-	.string "soil, feel free to take them.\p"
-	.string "But make sure you plant a BERRY in the\n"
-	.string "same spot. That's common courtesy.\p"
-	.string "Here, I'll share this with you.$"
+	.string "Jika lihat BERRY tumbuh\n"
+	.string "di tanah subur, ambil saja.\p"
+	.string "Tapi tanam BERRY lagi\n"
+	.string "di tempat yang sama.\n"
+	.string "Itu sopan santun.\p"
+	.string "Ini, ambil ini.$"
 
 Route104_Text_TrainersOftenMakeMonHoldBerries:
-	.string "The way you look, you must be a\n"
-	.string "TRAINER, no?\p"
-	.string "TRAINERS often make POKéMON hold\n"
-	.string "BERRIES.\p"
-	.string "It's up to you whether to grow BERRIES\n"
-	.string "or use them.$"
+	.string "Dari penampilanmu,\n"
+	.string "kau pasti TRAINER, kan?\p"
+	.string "TRAINER sering membuat\n"
+	.string "POKÉMON memegang BERRY.\p"
+	.string "Tanam atau pakai BERRY,\n"
+	.string "terserah padamu.$"
 
 Route111_Text_WateredPlantsEveryDayTakeBerry:
-	.string "I watered the plants every day.\n"
-	.string "They grew lots of flowers.\p"
-	.string "And they gave me lots of BERRIES, too.\p"
-	.string "Here you go!\n"
-	.string "You can have it!$"
+	.string "Aku sirami tanaman\n"
+	.string "setiap hari.\n"
+	.string "Banyak bunga bermekaran.\p"
+	.string "Dan juga banyak BERRY!\p"
+	.string "Ini untukmu!\n"
+	.string "Ambil saja!$"
 
 Route111_Text_GoingToTryToMakeDifferentColorBerries:
-	.string "I'm going to try really hard and make\n"
-	.string "BERRIES in different colors.\p"
-	.string "I hope you try hard, too!$"
+	.string "Aku akan coba keras\n"
+	.string "menanam BERRY warna-warni.\p"
+	.string "Kau juga harus berusaha!$"
 
 Route111_Text_WhatColorBerriesToLookForToday:
-	.string "I wonder what color BERRIES I'll look\n"
-	.string "for today?$"
+	.string "Hari ini, BERRY warna apa\n"
+	.string "yang akan kucari?$"
 
 Route114_Text_LoveUsingBerryCrushShareBerry:
-	.string "I love using the BERRY CRUSH machine,\n"
-	.string "so I'm collecting BERRIES.\p"
-	.string "I'll share one with you, if you'd like.$"
+	.string "Aku suka mesin BERRY\n"
+	.string "CRUSH, jadi kumpulkan BERRY.\p"
+	.string "Boleh kubagikan satu.$"
 
 Route114_Text_TryBerryCrushWithFriends:
-	.string "You should try the BERRY CRUSH\n"
-	.string "machine with your friends.$"
+	.string "Coba mesin BERRY CRUSH\n"
+	.string "bersama teman-temanmu.$"
 
 Route114_Text_FunToThinkAboutBerries:
-	.string "Which BERRY should be planted?\n"
-	.string "Should you use or hoard BERRIES?\p"
-	.string "It's fun to think about.$"
+	.string "BERRY mana yang ditanam?\n"
+	.string "Pakai atau simpan BERRY?\p"
+	.string "Asyik dipikirkan.$"
 
 Route120_Text_BerriesExpressionOfLoveIsntIt:
-	.string "BERRIES grow by soaking up sunlight.\p"
-	.string "We help the BERRIES grow by watering\n"
-	.string "them regularly.\p"
-	.string "It's an expression of love, isn't it?$"
+	.string "BERRY tumbuh dengan\n"
+	.string "menyerap sinar matahari.\p"
+	.string "Kita bantu tumbuh dengan\n"
+	.string "menyiramnya rutin.\p"
+	.string "Itu bentuk kasih sayang,\n"
+	.string "bukan?$"
 
 Route120_Text_YesYouUnderstand:
-	.string "Yes, yes.\n"
-	.string "You understand what I mean.\p"
-	.string "You should take this.$"
+	.string "Ya, ya.\n"
+	.string "Kau mengerti maksudku.\p"
+	.string "Ambil ini.$"
 
 Route120_Text_MakeYourOwnImpressions:
-	.string "Oh… But it is important to make your\n"
-	.string "own impressions, I guess…\p"
-	.string "You can have this.$"
+	.string "Tapi penting juga punya\n"
+	.string "pandangan sendiri…\p"
+	.string "Ini untukmu.$"
 
 Route120_Text_BerryIsRareRaiseItWithCare:
-	.string "I think that BERRY is rare.\n"
-	.string "I hope you raise it with loving care.$"
+	.string "BERRY ini langka.\n"
+	.string "Rawatlah dengan penuh kasih.$"
 
 Route120_Text_IllGetMoreBerriesFromBerryMaster:
-	.string "I'll get more BERRIES from\n"
-	.string "the BERRY MASTER.$"
+	.string "Aku akan ambil BERRY lagi\n"
+	.string "dari MASTER BERRY.$"
 
 LilycoveCity_Text_BerrySuitsYou:
-	.string "When it gets right down to it…\p"
-	.string "The same way suits suit me perfectly,\n"
-	.string "a crisp breeze suits the sea.\p"
-	.string "And you, a BERRY suits you to a “T”…\p"
-	.string "Why should that be so?$"
+	.string "Begini saja…\p"
+	.string "Seperti jas cocok untukku,\n"
+	.string "angin sepoi cocok untuk laut.\p"
+	.string "Dan kau? BERRY sangat\n"
+	.string "cocok untukmu…\p"
+	.string "Mengapa begitu?$"
 
 LilycoveCity_Text_BecauseYoureTrainer:
-	.string "When it gets right down to it…\p"
-	.string "It's because you're a TRAINER!$"
+	.string "Begini saja…\p"
+	.string "Karena kau seorang TRAINER!$"
 
 LilycoveCity_Text_PokeblocksSuitPokemon:
-	.string "When it gets right down to it…\p"
-	.string "The way dignified simplicity suits me,\n"
-	.string "{POKEBLOCK}S perfectly suit POKéMON.$"
+	.string "Begini saja…\p"
+	.string "Seperti kesederhanaan\n"
+	.string "cocok untukku,\n"
+	.string "{POKEBLOCK}S sangat cocok\n"
+	.string "untuk POKÉMON.$"
 
 Route123_BerryMastersHouse_Text_YoureDeservingOfBerry:
-	.string "You may call me the BERRY MASTER.\p"
-	.string "I dream of filling the world with\n"
-	.string "beautiful flowers, so I raise BERRIES\l"
-	.string "and hand them out to everyone.\p"
-	.string "You're deserving of one!$"
+	.string "Panggil aku MASTER BERRY.\p"
+	.string "Impianku: dunia penuh\n"
+	.string "bunga indah. Jadi aku tanam\n"
+	.string "BERRY dan bagikan ke semua.\p"
+	.string "Kau layak dapat satu!$"
 
 Route123_BerryMastersHouse_Text_WhyBeStingyTakeAnother:
-	.string "Why be stingy?\n"
-	.string "Take another!$"
+	.string "Jangan pelit!\n"
+	.string "Ambil lagi!$"
 
 Route123_BerryMastersHouse_Text_VisitPrettyPetalFlowerShop:
-	.string "Be sure to visit the PRETTY PETAL\n"
-	.string "flower shop near RUSTBORO.\p"
-	.string "Let flowers fill the world!$"
+	.string "Kunjungi TOKO BUNGA\n"
+	.string "MAWAR CANTIK dekat RUSTBORO.\p"
+	.string "Sebarkan bunga ke dunia!$"
 
 Route123_BerryMastersHouse_Text_DoneForToday:
-	.string "I'm done for today.\n"
-	.string "Come again another day.\p"
-	.string "Let flowers fill the world!$"
+	.string "Sudah cukup hari ini.\n"
+	.string "Datang lagi lain kali.\p"
+	.string "Sebarkan bunga ke dunia!$"
 
 Route123_BerryMastersHouse_Text_HeardAGoodSayingLately:
-	.string "The way my husband grows BERRIES,\n"
-	.string "oh, he's the best in the world.\p"
-	.string "He makes me proud, that he does.\p"
-	.string "Incidentally, child, have you heard\n"
-	.string "a good saying lately?$"
+	.string "Suamiku penanam BERRY\n"
+	.string "terbaik di dunia.\p"
+	.string "Aku bangga padanya.\p"
+	.string "Ngomong-ngomong, anakku,\n"
+	.string "pernah dengar pepatah bagus\n"
+	.string "belakangan ini?$"
 
 Route123_BerryMastersHouse_Text_InspirationalTakeThis:
-	.string "Ah! What a remarkable saying!\n"
-	.string "Inspirational, it is!\p"
-	.string "I want you to have this.$"
+	.string "Wah! Pepatah luar biasa!\n"
+	.string "Menginspirasi sekali!\p"
+	.string "Ini untukmu.$"
 
 Route123_BerryMastersHouse_Text_GoodSayingTakeThis:
-	.string "Oh! A good saying it is.\n"
-	.string "You're quite remarkable.\p"
-	.string "I want you to have this.$"
+	.string "Wah! Pepatah bagus sekali.\n"
+	.string "Kau hebat.\p"
+	.string "Ini untukmu.$"
 
 Route123_BerryMastersHouse_Text_JoyNeverGoesOutOfMyLife:
-	.string "Our four grandchildren should become\n"
-	.string "more accomplished than my husband.\p"
-	.string "Joy never goes out of my life!$"
+	.string "Keempat cucuku harus\n"
+	.string "lebih hebat dari suamiku.\p"
+	.string "Kebahagiaan tak pernah\n"
+	.string "pergi dari hidupku!$"
 
 Route123_BerryMastersHouse_Text_Ah:
 	.string "Ah…$"
 
 Route104_PrettyPetalFlowerShop_Text_ThisIsPrettyPetalFlowerShop:
-	.string "Hello!\p"
-	.string "This is the PRETTY PETAL flower shop.\n"
-	.string "Spreading flowers all over the world!$"
+	.string "Halo!\p"
+	.string "Ini TOKO BUNGA\n"
+	.string "MAWAR CANTIK.\p"
+	.string "Menyebarkan bunga ke dunia!$"
 
 Route104_PrettyPetalFlowerShop_Text_LearnAboutBerries:
-	.string "{PLAYER}{KUN}, would you like to learn about\n"
-	.string "BERRIES?$"
+	.string "{PLAYER}{KUN}, mau belajar\n"
+	.string "tentang BERRY?$"
 
 Route104_PrettyPetalFlowerShop_Text_IntroLearnAboutBerries:
-	.string "Your name is?\p"
+	.string "Namamu?\p"
 	.string "{PLAYER}{KUN}.\n"
-	.string "That's a nice name.\p"
-	.string "{PLAYER}{KUN}, would you like to learn about\n"
-	.string "BERRIES?$"
+	.string "Nama bagus.\p"
+	.string "{PLAYER}{KUN}, mau belajar\n"
+	.string "tentang BERRY?$"
 
 Route104_PrettyPetalFlowerShop_Text_BerriesExplanation:
-	.string "BERRIES grow on trees that thrive\n"
-	.string "only in soft, loamy soil.\p"
-	.string "If you take some BERRIES, be sure to\n"
-	.string "plant one in the loamy soil again.\p"
-	.string "A planted BERRY will soon sprout,\n"
-	.string "grow into a plant, flower beautifully,\l"
-	.string "then grow BERRIES again.\p"
-	.string "I want to see the whole wide world\n"
-	.string "filled with beautiful flowers.\l"
-	.string "That's my dream.\p"
-	.string "Please help me, {PLAYER}{KUN}. Plant BERRIES\n"
-	.string "and bring more flowers into the world.$"
+	.string "BERRY tumbuh di pohon\n"
+	.string "yang hanya hidup di tanah\n"
+	.string "subur.\p"
+	.string "Jika ambil BERRY, tanam\n"
+	.string "lagi di tanah itu.\p"
+	.string "BERRY yang ditanam akan\n"
+	.string "tumbuh, berbunga indah,\l"
+	.string "lalu berbuah BERRY lagi.\p"
+	.string "Impianku: dunia penuh\n"
+	.string "bunga indah.\l"
+	.string "Itu mimpiku.\p"
+	.string "Bantu aku, {PLAYER}{KUN}.\n"
+	.string "Tanam BERRY, sebarkan bunga.$"
 
 Route104_PrettyPetalFlowerShop_Text_FlowersBringHappiness:
-	.string "Flowers bring so much happiness to\n"
-	.string "people, don't they?$"
+	.string "Bunga membuat orang\n"
+	.string "bahagia, ya?$"
 
 Route104_PrettyPetalFlowerShop_Text_YouCanHaveThis:
-	.string "Hello!\p"
-	.string "The more attention you give to flowers,\n"
-	.string "the more beautifully they bloom.\p"
-	.string "You'll like tending flowers. I'm sure\n"
-	.string "of it. You can have this.$"
+	.string "Halo!\p"
+	.string "Semakin kau rawat bunga,\n"
+	.string "semakin indah mekarnya.\p"
+	.string "Kau pasti suka merawat\n"
+	.string "bunga. Ini untukmu.$"
 
 Route104_PrettyPetalFlowerShop_Text_WailmerPailExplanation:
-	.string "While BERRY plants are growing,\n"
-	.string "water them with the WAILMER PAIL.\p"
-	.string "Oh, another thing.\p"
-	.string "If you don't pick BERRIES for a while,\n"
-	.string "they'll drop off onto the ground.\l"
-	.string "But they'll sprout again.\p"
-	.string "Isn't that awesome?\n"
-	.string "It's like they have the will to live.$"
+	.string "Saat BERRY tumbuh,\n"
+	.string "siram dengan WAILMER PAIL.\p"
+	.string "Oh, satu hal lagi.\p"
+	.string "Jika BERRY tak dipetik,\n"
+	.string "ia jatuh ke tanah.\l"
+	.string "Tapi akan tumbuh lagi.\p"
+	.string "Keren, kan?\n"
+	.string "Seperti punya semangat hidup.$"
 
 Route104_PrettyPetalFlowerShop_Text_ImGrowingFlowers:
-	.string "I'm trying to be like my big sisters.\n"
-	.string "I'm growing flowers, too!\p"
-	.string "Here you go!\n"
-	.string "It's for you!$"
+	.string "Aku ingin seperti kakakku.\n"
+	.string "Aku juga tanam bunga!\p"
+	.string "Ini untukmu!\n"
+	.string "Hadiah!$"
 
 Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries:
-	.string "You can plant a BERRY and grow it big,\n"
-	.string "or you can make a POKéMON hold it.\p"
-	.string "But now they have a machine that mixes\n"
-	.string "up different BERRIES and makes candies\l"
-	.string "for POKéMON.\p"
-	.string "I want some candy, too.$"
+	.string "BERRY bisa ditanam,\n"
+	.string "dipegang POKÉMON,\n"
+	.string "atau dicampur di mesin\n"
+	.string "jadi permen untuk POKÉMON.\p"
+	.string "Aku juga mau permen itu.$"
 
 SootopolisCity_Text_NameIsKiriHaveOneOfThese:
-	.string "Hi, what's your name?\p"
+	.string "Hai, siapa namamu?\p"
 	.string "… … …  … … …  … … …\n"
-	.string "Okay. That's nice!\p"
-	.string "My name is KIRI.\p"
-	.string "My mommy and daddy named me that so\n"
-	.string "I would grow healthy and warmhearted.\l"
-	.string "That's what they wished.\p"
-	.string "You can have one of these.$"
+	.string "Oke. Nama bagus!\p"
+	.string "Namaku KIRI.\p"
+	.string "Orang tuaku memberi nama\n"
+	.string "agar aku sehat dan hangat.\l"
+	.string "Itu harapan mereka.\p"
+	.string "Ambil ini.$"
 
 SootopolisCity_Text_GiveYouThisBerryToo:
-	.string "KIRI will give you this BERRY, too!\n"
-	.string "I really like it lots!$"
+	.string "KIRI beri kau BERRY ini!\n"
+	.string "Aku sangat suka!$"
 
 SootopolisCity_Text_WhatKindOfWishInYourName:
-	.string "I wonder what kind of wish is included\n"
-	.string "in your name.$"
+	.string "Apa harapan yang tersemat\n"
+	.string "dalam namamu?$"
 
 SootopolisCity_Text_LikeSeasonBornIn:
-	.string "Spring, summer, autumn, and winter.\p"
-	.string "If you're born in springtime, do you like\n"
-	.string "the spring, and if you're born in the\l"
-	.string "summer, do you like the summer?$"
+	.string "Musim semi, panas,\n"
+	.string "gugur, dan dingin.\p"
+	.string "Jika lahir di musim semi,\n"
+	.string "apakah kau suka musim semi?\l"
+	.string "Jika lahir di musim panas,\n"
+	.string "suka musim panas?$"
 
 SootopolisCity_Text_ThenILoveAutumn:
-	.string "Then KIRI was born in the autumn,\n"
-	.string "so I love the autumn!\p"
-	.string "Which season do you like?$"
+	.string "KIRI lahir di musim gugur,\n"
+	.string "jadi aku suka musim gugur!\p"
+	.string "Musim apa yang kau suka?$"
 
 SootopolisCity_Text_OhDoesntMatter:
 	.string "Oh…\n"
-	.string "It doesn't matter…\p"
-	.string "There's so much that I want to know…$"
+	.string "Tak apa-apa…\p"
+	.string "Masih banyak yang ingin\n"
+	.string "kuketahui…$"

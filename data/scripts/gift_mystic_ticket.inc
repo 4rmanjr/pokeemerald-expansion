@@ -36,23 +36,23 @@ MysticTicket_Obtained:
 	end
 
 sText_MysticTicketForYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "You must be {PLAYER}.\n"
-	.string "There is a ticket here for you.$"
+	.string "Terima kasih telah menggunakan\n"
+	.string "Sistem MYSTERY GIFT.\p"
+	.string "Kamu pasti {PLAYER}.\n"
+	.string "Ada tiket di sini untukmu.$"
 
 sText_MysticTicketUseAtPort:
-	.string "It appears to be for use at the\n"
-	.string "LILYCOVE CITY port.\p"
-	.string "Why not give it a try and see what\n"
-	.string "it is about?$"
+	.string "Sepertinya ini untuk digunakan di\n"
+	.string "pelabuhan KOTA LILYCOVE.\p"
+	.string "Mengapa tidak mencobanya dan melihat\n"
+	.string "tentang apa itu?$"
 
 sText_MysticTicketThankYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.$"
+	.string "Terima kasih telah menggunakan\n"
+	.string "Sistem MYSTERY GIFT.$"
 
 sText_MysticTicketBagFull:
-	.string "Oh, I'm sorry, {PLAYER}.\n"
-	.string "Your BAG's KEY ITEMS POCKET is full.\p"
-	.string "Please store something on your PC,\n"
-	.string "then come back for this.$"
+	.string "Oh, maaf, {PLAYER}.\n"
+	.string "KANTONG KEY ITEMS TAS-mu penuh.\p"
+	.string "Silakan simpan sesuatu di PC-mu,\n"
+	.string "lalu kembali untuk ini.$"

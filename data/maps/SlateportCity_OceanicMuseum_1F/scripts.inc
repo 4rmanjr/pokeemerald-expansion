@@ -223,156 +223,156 @@ SlateportCity_OceanicMuseum_1F_Movement_FamiliarGruntExitNorth:
 	step_end
 
 SlateportCity_OceanicMuseum_1F_Text_WouldYouLikeToEnter:
-	.string "Welcome to the OCEANIC MUSEUM.\p"
-	.string "The entrance fee is ¥50.\n"
-	.string "Would you like to enter?$"
+	.string "Selamat datang di MUSEUM KELAUTAN.\p"
+	.string "Biaya masuknya ¥50.\n"
+	.string "Maukah kamu masuk?$"
 
 SlateportCity_OceanicMuseum_1F_Text_PleaseEnjoyYourself:
-	.string "Please enjoy yourself.$"
+	.string "Silakan bersenang-senang.$"
 
 SlateportCity_OceanicMuseum_1F_Text_NotEnoughMoney:
-	.string "Oh? I'm sorry, but you don't seem to\n"
-	.string "have enough money.$"
+	.string "Oh? Maaf, tapi sepertinya kamu tidak\n"
+	.string "punya cukup uang.$"
 
 SlateportCity_OceanicMuseum_1F_Text_CatchUpWithYourGroup:
-	.string "Oh? You're with that group that\n"
-	.string "went in earlier?\p"
-	.string "You're the only one who's late.\n"
-	.string "You'd better go catch up to them!$"
+	.string "Oh? Kamu bersama rombongan yang\n"
+	.string "masuk lebih awal?\p"
+	.string "Kamu satu-satunya yang terlambat.\n"
+	.string "Sebaiknya kamu segera menyusul mereka!$"
 
 SlateportCity_OceanicMuseum_1F_Text_AquaExistForGoodOfAll:
-	.string "We, TEAM AQUA, exist for the good\n"
-	.string "of all!$"
+	.string "Kami, TEAM AQUA, ada untuk kebaikan\n"
+	.string "semua!$"
 
 SlateportCity_OceanicMuseum_1F_Text_OurBossIsntHere:
-	.string "We were told to assemble here,\n"
-	.string "so we did, but…\p"
-	.string "Our BOSS, the linchpin, isn't here.$"
+	.string "Kami disuruh berkumpul di sini,\n"
+	.string "jadi kami melakukannya, tapi…\p"
+	.string "BOS kami, tulang punggungnya, tidak ada di sini.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WouldStuffHereMakeMeRich:
-	.string "If I ripped off the stuff here,\n"
-	.string "would it make me rich?$"
+	.string "Jika aku mencuri barang-barang di sini,\n"
+	.string "apakah itu akan membuatku kaya?$"
 
 SlateportCity_OceanicMuseum_1F_Text_CanLearnForNefariousDeeds:
-	.string "What I learn here, I can put to use on\n"
-	.string "nefarious deeds…$"
+	.string "Apa yang aku pelajari di sini, bisa\n"
+	.string "aku gunakan untuk perbuatan jahat…$"
 
 SlateportCity_OceanicMuseum_1F_Text_RustboroBungled:
-	.string "If our goons didn't bungle things\n"
-	.string "in RUSTBORO, we wouldn't be here!$"
+	.string "Jika anak buah kami tidak mengacau\n"
+	.string "di RUSTBORO, kami tidak akan ada di sini!$"
 
 SlateportCity_OceanicMuseum_1F_Text_DidntHaveMoney:
-	.string "I didn't have ¥50, so it took a long\n"
-	.string "time getting by the receptionist.$"
+	.string "Aku tidak punya ¥50, jadi butuh waktu\n"
+	.string "lama untuk melewati resepsionis.$"
 
 SlateportCity_OceanicMuseum_1F_Text_LearnAboutSeaForBattling:
-	.string "I want to learn about the sea and\n"
-	.string "use that knowledge for battling.$"
+	.string "Aku ingin belajar tentang laut dan\n"
+	.string "menggunakan pengetahuan itu untuk bertarung.$"
 
 SlateportCity_OceanicMuseum_1F_Text_SternIsRoleModel:
-	.string "I get all giddy and gooey when\n"
-	.string "I see the sea!\p"
-	.string "For me, CAPT. STERN is the number\n"
-	.string "one role model!$"
+	.string "Aku jadi sangat gembira dan lengket\n"
+	.string "saat melihat laut!\p"
+	.string "Bagiku, KAPTEN STERN adalah\n"
+	.string "panutan nomor satu!$"
 
 SlateportCity_OceanicMuseum_1F_Text_MustBePokemonWeDontKnow:
-	.string "The sea is vast without end, and\n"
-	.string "infinitely deep…\p"
-	.string "There must be many POKéMON that\n"
-	.string "we don't know about.$"
+	.string "Laut itu luas tak berujung, dan\n"
+	.string "sangat dalam…\p"
+	.string "Pasti ada banyak POKéMON yang\n"
+	.string "tidak kita ketahui.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WantSeaPokemon:
-	.string "I want a sea POKéMON.\p"
-	.string "I think it would feel cool and nice\n"
-	.string "to hug.$"
+	.string "Aku ingin POKéMON laut.\p"
+	.string "Menurutku akan terasa dingin dan menyenangkan\n"
+	.string "untuk dipeluk.$"
 
 SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis:
 	.string "Aiyeeeh!\n"
-	.string "What are you doing here?\p"
-	.string "Me? I'm the TEAM AQUA member\n"
-	.string "you thumped before, remember?\l"
-	.string "Back in RUSTURF TUNNEL?\p"
-	.string "Here, take this!\n"
-	.string "You have to forgive me!$"
+	.string "Apa yang kamu lakukan di sini?\p"
+	.string "Aku? Aku anggota TEAM AQUA\n"
+	.string "yang kamu kalahkan sebelumnya, ingat?\l"
+	.string "Di RUSTURF TUNNEL?\p"
+	.string "Ini, ambil ini!\n"
+	.string "Kamu harus memaafkanku!$"
 
 SlateportCity_OceanicMuseum_1F_Text_HopeINeverSeeYouAgain:
-	.string "That TM, it suits you more than it\n"
-	.string "does me.\p"
-	.string "Hope I never see you again!\n"
+	.string "TM itu, lebih cocok untukmu\n"
+	.string "daripada aku.\p"
+	.string "Semoga aku tidak pernah melihatmu lagi!\n"
 	.string "Wahahaha!$"
 
 SlateportCity_OceanicMuseum_1F_Text_YouHaveToTakeThis:
-	.string "Awww, come on!\n"
-	.string "You have to take this and let me go!$"
+	.string "Aww, ayolah!\n"
+	.string "Kamu harus mengambil ini dan biarkan aku pergi!$"
 
 SlateportCity_OceanicMuseum_1F_Text_WhirlpoolExperiment:
-	.string "A blue fluid is spiraling inside\n"
-	.string "a glass vessel.\p"
-	.string "“This is an experiment to create a\n"
-	.string "WHIRLPOOL artificially using wind.”$"
+	.string "Cairan biru berputar di dalam\n"
+	.string "wadah kaca.\p"
+	.string "“Ini adalah percobaan untuk menciptakan\n"
+	.string "WHIRLPOOL secara artifisial menggunakan angin.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_WaterfallExperiment:
-	.string "A red ball is bobbing up and down\n"
-	.string "inside a glass vessel.\p"
-	.string "“This is an experiment simulating a\n"
-	.string "WATERFALL using the ball's buoyancy.”$"
+	.string "Bola merah bergerak naik turun\n"
+	.string "di dalam wadah kaca.\p"
+	.string "“Ini adalah percobaan mensimulasikan\n"
+	.string "AIR TERJUN menggunakan daya apung bola.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanSoilDisplay:
-	.string "It's a sample of soil from the ocean\n"
-	.string "floor.\p"
-	.string "“Over many years, the remains of\n"
-	.string "life-forms settle at the bottom of\l"
-	.string "the sea, making sedimentary layers.\p"
-	.string "“By analyzing these layers, the\n"
-	.string "ancient past is revealed.”$"
+	.string "Ini adalah sampel tanah dari dasar\n"
+	.string "laut.\p"
+	.string "“Selama bertahun-tahun, sisa-sisa\n"
+	.string "makhluk hidup mengendap di dasar\l"
+	.string "laut, membentuk lapisan sedimen.\p"
+	.string "“Dengan menganalisis lapisan-lapisan ini,\n"
+	.string "masa lalu kuno terungkap.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_BeachSandDisplay:
-	.string "It's a sample of beach sand.\p"
-	.string "“Stones from mountains are washed\n"
-	.string "down by rivers where they are\l"
-	.string "chipped and ground down.\p"
-	.string "“They are reduced to grains and end\n"
-	.string "up as sand on beaches.”$"
+	.string "Ini adalah sampel pasir pantai.\p"
+	.string "“Batu-batu dari gunung terbawa\n"
+	.string "oleh sungai di mana mereka\l"
+	.string "terkikis dan tergerus.\p"
+	.string "“Mereka berkurang menjadi butiran dan\n"
+	.string "berakhir sebagai pasir di pantai.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1:
-	.string "“OCEANIC MINIFACT 1\n"
-	.string "Why is seawater blue?\p"
-	.string "“Light is composed of many colors.\p"
-	.string "“When light passes through water,\n"
-	.string "most kinds of light lose color.\p"
-	.string "“However, blue light retains its\n"
-	.string "color, making the sea appear blue.”$"
+	.string "“MINIFAKTA KELAUTAN 1\n"
+	.string "Mengapa air laut berwarna biru?\p"
+	.string "“Cahaya terdiri dari banyak warna.\p"
+	.string "“Ketika cahaya melewati air,\n"
+	.string "sebagian besar jenis cahaya kehilangan warna.\p"
+	.string "“Namun, cahaya biru mempertahankan\n"
+	.string "warnanya, membuat laut tampak biru.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2:
-	.string "“OCEANIC MINIFACT 2\n"
-	.string "Why is the sea salty?\p"
-	.string "“Seawater contains dissolved salt in\n"
-	.string "the form of sodium and chlorine ions.\p"
-	.string "“These ions leech out of rocks\n"
-	.string "and are carried out to sea by rain.\p"
-	.string "“The concentration of dissolved salt\n"
-	.string "makes the sea salty.”$"
+	.string "“MINIFAKTA KELAUTAN 2\n"
+	.string "Mengapa laut asin?\p"
+	.string "“Air laut mengandung garam terlarut\n"
+	.string "dalam bentuk ion natrium dan klorin.\p"
+	.string "“Ion-ion ini merembes keluar dari bebatuan\n"
+	.string "dan terbawa ke laut oleh hujan.\p"
+	.string "“Konsentrasi garam terlarut\n"
+	.string "membuat laut asin.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact3:
-	.string "“OCEANIC MINIFACT 3\n"
-	.string "Which is bigger? The sea or land?\p"
-	.string "“The sea covers about 70% of\n"
-	.string "the planet, and the rest is land.\p"
-	.string "“The sea is therefore more than twice\n"
-	.string "the size of land.”$"
+	.string "“MINIFAKTA KELAUTAN 3\n"
+	.string "Mana yang lebih besar? Laut atau daratan?\p"
+	.string "“Laut menutupi sekitar 70% dari\n"
+	.string "planet, dan sisanya adalah daratan.\p"
+	.string "“Oleh karena itu, laut lebih dari dua kali\n"
+	.string "ukuran daratan.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_FossilDisplay:
-	.string "It's a fossil with wavy ridges on it.\p"
-	.string "“Soil on the ocean floor gets scoured\n"
-	.string "by the tide.\p"
-	.string "“The flowing seawater marks the soil\n"
-	.string "with small ridges and valleys.\p"
-	.string "“If this soil becomes fossilized, it is\n"
-	.string "called a ripple mark.”$"
+	.string "Ini adalah fosil dengan punggung bergelombang.\p"
+	.string "“Tanah di dasar laut terkikis\n"
+	.string "oleh pasang surut.\p"
+	.string "“Air laut yang mengalir menandai tanah\n"
+	.string "dengan punggung dan lembah kecil.\p"
+	.string "“Jika tanah ini menjadi fosil, itu\n"
+	.string "disebut tanda riak.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_DepthMeasuringMachine:
-	.string "A strange machine is rotating under\n"
-	.string "a glass dome.\p"
-	.string "Maybe it's for measuring the depth\n"
-	.string "of something…$"
+	.string "Sebuah mesin aneh berputar di bawah\n"
+	.string "kubah kaca.\p"
+	.string "Mungkin itu untuk mengukur kedalaman\n"
+	.string "sesuatu…$"
 

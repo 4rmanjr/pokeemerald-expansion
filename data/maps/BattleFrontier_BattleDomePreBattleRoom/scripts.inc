@@ -18,7 +18,6 @@ BattleFrontier_BattleDomePreBattleRoom_OnFrame:
 
 BattleFrontier_BattleDomePreBattleRoom_EventScript_EnterRoom::
 	goto_if_eq VAR_0x8006, 1, BattleFrontier_BattleDomePreBattleRoom_EventScript_ReturnFromBattle
-	delay 0
 	frontier_set FRONTIER_DATA_RECORD_DISABLED, TRUE
 	setvar VAR_TEMP_0, 1
 	applymovement LOCALID_PLAYER, BattleFrontier_BattleDomePreBattleRoom_Movement_PlayerEnter
@@ -271,122 +270,117 @@ BattleFrontier_BattleDomePreBattleRoom_Movement_PlayerEnterDoor:
 	step_end
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForRound1:
-	.string "Your 1st-round match is next.\n"
-	.string "Are you ready?$"
+	.string "Pertandingan ronde pertamamu\n"
+	.string "selanjutnya. Apa kamu siap?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForRound2:
-	.string "Your 2nd-round match is next.\n"
-	.string "Are you ready?$"
+	.string "Pertandingan ronde keduamu\n"
+	.string "selanjutnya. Apa kamu siap?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForSemifinals:
-	.string "Your semifinal match is next.\n"
-	.string "Are you ready?$"
+	.string "Pertandingan semifinalmu selanjutnya.\n"
+	.string "Apa kamu siap?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForFinals:
-	.string "Your final match is next.\n"
-	.string "Are you ready?$"
+	.string "Pertandingan finalmu selanjutnya.\n"
+	.string "Apa kamu siap?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ChooseTwoMons:
-	.string "Please choose the two POKéMON\n"
-	.string "that are to appear in battle.$"
+	.string "Silakan pilih dua POKéMON yang\n"
+	.string "akan muncul dalam pertarungan.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RightThisWay:
-	.string "Right this way, please.$"
+	.string "Lewat sini, silakan.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RestoreMonsToFullHealth:
-	.string "Thank you for competing!\p"
-	.string "I'll restore your POKéMON to\n"
-	.string "full health.$"
+	.string "Terima kasih sudah bertanding!\p"
+	.string "Akan kupulihkan POKéMON-mu\n"
+	.string "ke kondisi penuh.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_Round1Complete:
-	.string "All 1st-round matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.string "Semua pertandingan ronde pertama telah\n"
+	.string "selesai.\p"
+	.string "Inilah tim-tim yang lolos!$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_Round2Complete:
-	.string "All 2nd-round matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.string "Semua pertandingan ronde kedua telah\n"
+	.string "selesai.\p"
+	.string "Inilah tim-tim yang lolos!$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SemifinalsComplete:
-	.string "All semifinal matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.string "Semua pertandingan semifinal telah\n"
+	.string "selesai.\p"
+	.string "Inilah tim-tim yang lolos!$"
 
-@ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForRound2:
-	.string "Congratulations for getting through\n"
-	.string "the 1st round.\p"
-	.string "The 2nd round is next.\n"
-	.string "Are you ready?$"
+	.string "Selamat sudah melewati\n"
+	.string "ronde pertama.\p"
+	.string "Selanjutnya ronde kedua.\n"
+	.string "Apa kamu siap?$"
 
-@ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForSemifinals:
-	.string "Congratulations for advancing\n"
-	.string "to the semifinals.\p"
-	.string "The best four teams meet in this round.\n"
-	.string "Are you ready?$"
+	.string "Selamat sudah maju\n"
+	.string "ke semifinal.\p"
+	.string "Empat tim terbaik bertemu di ronde ini.\n"
+	.string "Apa kamu siap?$"
 
-@ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "You're one win from the championship.\n"
-	.string "Are you ready?$"
+	.string "Selamat sudah maju\n"
+	.string "ke pertandingan final.\p"
+	.string "Satu kemenangan lagi menuju juara.\n"
+	.string "Apa kamu siap?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer:
-	.string "{PLAYER}'s next opponent\n"
-	.string "is this TRAINER.$"
+	.string "Lawan {PLAYER} berikutnya\n"
+	.string "adalah TRAINER ini.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound1:
-	.string "The tournament is in the 1st round.$"
+	.string "Turnamen berada di ronde pertama.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound2:
-	.string "The tournament is in the 2nd round.$"
+	.string "Turnamen berada di ronde kedua.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInSemifinals:
-	.string "The tournament is in the semifinals.$"
+	.string "Turnamen berada di babak semifinal.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInFinals:
-	.string "The tournament is up to the final.$"
+	.string "Turnamen sudah sampai babak final.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and\n"
-	.string "quit the game?$"
+	.string "Apa kamu ingin menyimpan dan\n"
+	.string "keluar dari permainan?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RetireYourChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Battle Tournament challenge?$"
+	.string "Apa kamu ingin mundur dari tantangan\n"
+	.string "Turnamen Pertarunganmu?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SavingDataPleaseWait:
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.string "Aku sedang menyimpan datamu.\n"
+	.string "Harap tunggu.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RecordLastMatch:
-	.string "Should I record your last match\n"
-	.string "on your FRONTIER PASS?$"
+	.string "Perlukah kucatat pertarungan\n"
+	.string "terakhirmu di FRONTIER PASS?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilver:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "For the final match, you will challenge\n"
-	.string "the DOME ACE TUCKER.\p"
-	.string "Are you ready?$"
+	.string "Selamat sudah maju\n"
+	.string "ke pertandingan final.\p"
+	.string "Untuk laga final, kamu akan menantang\n"
+	.string "DOME ACE TUCKER.\p"
+	.string "Apa kamu siap?$"
 
-@ Identical to ReadyForTuckerSilver
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGold:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "For the final match, you will challenge\n"
-	.string "the DOME ACE TUCKER.\p"
-	.string "Are you ready?$"
+	.string "Selamat sudah maju\n"
+	.string "ke pertandingan final.\p"
+	.string "Untuk laga final, kamu akan menantang\n"
+	.string "DOME ACE TUCKER.\p"
+	.string "Apa kamu siap?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilverShort:
-	.string "Your final battle against TUCKER is\n"
-	.string "next. Are you ready?$"
+	.string "Pertarungan finalmu melawan TUCKER\n"
+	.string "selanjutnya. Apa kamu siap?$"
 
-@ Identical again
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGoldShort:
-	.string "Your final battle against TUCKER is\n"
-	.string "next. Are you ready?$"
+	.string "Pertarungan finalmu melawan TUCKER\n"
+	.string "selanjutnya. Apa kamu siap?$"
 

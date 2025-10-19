@@ -107,36 +107,37 @@ Route112_EventScript_Shayla::
 	end
 
 Route112_Text_LeaderGoingToAwakenThing:
-	.string "Hey, man, is our leader really going\n"
-	.string "to awaken that thing?$"
+	.string "Hei, kawan, apakah pemimpin kita benar-benar\n"
+	.string "akan membangunkan benda itu?$"
 
 Route112_Text_YeahWeNeedMeteorite:
-	.string "Sounds like it, yeah. But I heard\n"
-	.string "we need a METEORITE to do it.$"
+	.string "Sepertinya begitu, ya. Tapi Aku dengar\n"
+	.string "kita butuh METEORITE untuk melakukannya.$"
 
 Route112_Text_OhThatsWhyCrewWentToFallarbor:
-	.string "Oh, I get it now. That's why the rest\n"
-	.string "of the crew went out to FALLARBOR.$"
+	.string "Oh, Aku mengerti sekarang. Itu sebabnya\n"
+	.string "anggota kru lainnya pergi ke FALLARBOR.$"
 
 Route112_Text_CantLetAnyonePassUntilTheyreBack:
-	.string "You got it. And until they come back,\n"
-	.string "we're not to let anyone pass, right.$"
+	.string "Tepat sekali. Dan sampai mereka kembali,\n"
+	.string "kita tidak boleh membiarkan\n"
+	.string "siapa pun lewat, kan.$"
 
 Route112_Text_NotEasyToGetBackToLavaridge:
-	.string "Eh, I'd like to get to MAUVILLE, but if\n"
-	.string "I went down these ledges, it'd be no\l"
-	.string "easy matter to get back to LAVARIDGE.$"
+	.string "Eh, Aku ingin ke MAUVILLE, tapi jika\n"
+	.string "Aku menuruni tepian ini, tidak akan\l"
+	.string "mudah untuk kembali ke LAVARIDGE.$"
 
 Route112_Text_MtChimneyCableCarSign:
-	.string "MT. CHIMNEY CABLE CAR\n"
-	.string "“A short walk {UP_ARROW} way!”$"
+	.string "KERETA GANTUNG GN. CHIMNEY\n"
+	.string "“Jalan kaki singkat {UP_ARROW}!”$"
 
 Route112_Text_MtChimneySign:
-	.string "MT. CHIMNEY\p"
-	.string "“For LAVARIDGE TOWN or the summit,\n"
-	.string "please take the CABLE CAR.”$"
+	.string "GN. CHIMNEY\p"
+	.string "“Untuk KOTA LAVARIDGE atau puncak,\n"
+	.string "silakan naik KERETA GANTUNG.”$"
 
 Route112_Text_RouteSignLavaridge:
-	.string "ROUTE 112\n"
-	.string "{LEFT_ARROW} LAVARIDGE TOWN$"
+	.string "RUTE 112\n"
+	.string "{LEFT_ARROW} KOTA LAVARIDGE$"
 

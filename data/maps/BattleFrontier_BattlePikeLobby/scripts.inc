@@ -270,166 +270,161 @@ BattleFrontier_BattlePike_EventScript_CloseCurtain::
 	return
 
 BattleFrontier_BattlePikeLobby_Text_WelcomeToBattlePike:
-	.string "Where the luck of TRAINERS\n"
-	.string "is put to the test…\p"
-	.string "Welcome to the BATTLE PIKE…\p"
-	.string "I am your guide to the BATTLE PIKE…$"
+	.string "Tempat di mana keberuntungan TRAINER\n"
+	.string "diuji…\p"
+	.string "Selamat datang di BATTLE PIKE…\p"
+	.string "Aku pemandumu di BATTLE PIKE…$"
 
 BattleFrontier_BattlePikeLobby_Text_TakeChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Choice challenge?$"
+	.string "Apa kamu ingin mengambil tantangan\n"
+	.string "Battle Choice?$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainBattlePike:
-	.string "Here we conduct an event we call\n"
-	.string "the Battle Choice.\p"
-	.string "The Battle Choice rules are very\n"
-	.string "simple…\p"
-	.string "Choose one of three paths and make\n"
-	.string "your way to the goal room at the end\l"
-	.string "of the BATTLE PIKE. It's that simple.\p"
-	.string "However, what happens on the chosen\n"
-	.string "path depends entirely on the luck\l"
-	.string "of the challenger…\p"
-	.string "If you reach the goal, you will be\n"
-	.string "rewarded with Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please have a word with\l"
-	.string "our staff in the big rooms on the way.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Di sini kami mengadakan acara yang\n"
+	.string "kami sebut Battle Choice.\p"
+	.string "Aturan Battle Choice sangat\n"
+	.string "sederhana…\p"
+	.string "Pilih satu dari tiga jalur dan capai\n"
+	.string "ruang tujuan di ujung BATTLE PIKE.\l"
+	.string "Sesederhana itu.\p"
+	.string "Namun, apa yang terjadi di jalur\n"
+	.string "pilihan bergantung sepenuhnya pada\l"
+	.string "keberuntungan penantang…\p"
+	.string "Jika kamu mencapai tujuan, kamu akan\n"
+	.string "diberi hadiah Battle Points.\p"
+	.string "Jika ingin menghentikan tantangan,\n"
+	.string "bicaralah dengan staf kami di\l"
+	.string "ruangan besar di sepanjang jalan.\p"
+	.string "Jika tidak disimpan sebelum berhenti,\n"
+	.string "kamu akan didiskualifikasi.$"
 
 BattleFrontier_BattlePikeLobby_Text_LookForwardToSeeingYou:
-	.string "We look forward to seeing you\n"
-	.string "on another occasion…$"
+	.string "Kami menantikan kedatanganmu\n"
+	.string "di lain waktu…$"
 
 BattleFrontier_BattlePikeLobby_Text_WhichChallengeMode:
-	.string "You have the choice of two courses,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which will you challenge?$"
+	.string "Ada dua pilihan jalur, Level 50 dan\n"
+	.string "Level Terbuka.\l"
+	.string "Mana yang akan kamu tantang?$"
 
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLv50:
-	.string "I beg your pardon, but…\p"
-	.string "You do not have three eligible\n"
-	.string "POKéMON for the Battle Choice event.\p"
-	.string "You must have three different POKéMON\n"
-	.string "of Level 50 or less to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when\n"
-	.string "you are ready…$"
+	.string "Mohon maaf, tapi…\p"
+	.string "Kamu tidak punya tiga POKéMON yang\n"
+	.string "memenuhi syarat untuk acara ini.\p"
+	.string "Kamu harus punya tiga POKéMON berbeda\n"
+	.string "Level 50 atau kurang untuk masuk.\p"
+	.string "Mereka juga tidak boleh memegang\n"
+	.string "jenis item yang sama.\p"
+	.string "TELUR{STR_VAR_1} tidak memenuhi syarat.\p"
+	.string "Silakan temui aku jika\n"
+	.string "kamu sudah siap…$"
 
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "I beg your pardon, but…\p"
-	.string "You do not have three eligible\n"
-	.string "POKéMON for the Battle Choice event.\p"
-	.string "You must have three different\n"
-	.string "POKéMON to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when\n"
-	.string "you are ready…$"
+	.string "Mohon maaf, tapi…\p"
+	.string "Kamu tidak punya tiga POKéMON yang\n"
+	.string "memenuhi syarat untuk acara ini.\p"
+	.string "Kamu harus punya tiga POKéMON\n"
+	.string "berbeda untuk masuk.\p"
+	.string "Mereka juga tidak boleh memegang\n"
+	.string "jenis item yang sama.\p"
+	.string "TELUR{STR_VAR_1} tidak memenuhi syarat.\p"
+	.string "Silakan temui aku jika\n"
+	.string "kamu sudah siap…$"
 
 BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons:
-	.string "Please choose the three POKéMON\n"
-	.string "you wish to enter in the challenge…$"
+	.string "Silakan pilih tiga POKéMON yang\n"
+	.string "ingin kamu ikutkan dalam tantangan…$"
 
 BattleFrontier_BattlePikeLobby_Text_SaveBeforeChallenge:
-	.string "Before starting your Battle Choice\n"
-	.string "challenge, I must save the game.\l"
-	.string "Is that acceptable?$"
+	.string "Sebelum memulai tantangan Battle\n"
+	.string "Choice, aku harus menyimpan permainan.\l"
+	.string "Apa itu tidak apa-apa?$"
 
 BattleFrontier_BattlePikeLobby_Text_StepThisWay:
-	.string "Please step this way…$"
+	.string "Silakan lewat sini…$"
 
 BattleFrontier_BattlePikeLobby_Text_ChallengeEndedRecordResults:
-	.string "Your challenge has ended…\p"
-	.string "I shall record your results.\n"
-	.string "Please wait…$"
+	.string "Tantanganmu telah berakhir…\p"
+	.string "Akan kucatat hasilnya.\n"
+	.string "Harap tunggu…$"
 
 BattleFrontier_BattlePikeLobby_Text_PossessLuckInAbundance:
-	.string "You have completed the challenge…\p"
-	.string "I must say… You seem to possess luck\n"
-	.string "in abundance…$"
+	.string "Kamu telah menyelesaikan tantangan…\p"
+	.string "Harus kuakui… Kamu tampaknya punya\n"
+	.string "keberuntungan yang melimpah…$"
 
 BattleFrontier_BattlePikeLobby_Text_ShallRecordResults:
-	.string "I shall record your results.\n"
-	.string "Please wait…$"
+	.string "Akan kucatat hasilnya.\n"
+	.string "Harap tunggu…$"
 
-@ Unused
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints2:
-	.string "To commemorate your completion of\n"
-	.string "the Battle Choice challenge, we award\l"
-	.string "you these Battle Point(s)…$"
+	.string "Untuk merayakan penyelesaian\n"
+	.string "tantangan Battle Choice, kami berikan\l"
+	.string "Battle Point ini…$"
 
-@ Unused
 BattleFrontier_BattlePikeLobby_Text_ReachedBattlePointLimit:
-	.string "You appear to have reached the limit\n"
-	.string "for Battle Points…\p"
-	.string "Please exchange some Battle Points\n"
-	.string "for prizes, then return…$"
+	.string "Kamu tampaknya telah mencapai batas\n"
+	.string "Battle Points…\p"
+	.string "Silakan tukar beberapa Battle Points\n"
+	.string "dengan hadiah, lalu kembali…$"
 
 BattleFrontier_BattlePikeLobby_Text_FailedToSaveBeforeQuitting:
-	.string "I beg your pardon, but…\p"
-	.string "You failed to save before you quit\n"
-	.string "your challenge the last time.\p"
-	.string "Because of that, your challenge so far\n"
-	.string "has been disqualified. I am sorry…$"
+	.string "Mohon maaf, tapi…\p"
+	.string "Kamu gagal menyimpan sebelum keluar\n"
+	.string "dari tantanganmu yang terakhir.\p"
+	.string "Karena itu, tantanganmu sejauh ini\n"
+	.string "telah didiskualifikasi. Maafkan aku…$"
 
 BattleFrontier_BattlePikeLobby_Text_SnatchedVictoryFromQueen:
-	.string "Congratulations…\p"
-	.string "You have snatched victory from the\n"
-	.string "PIKE QUEEN and cleared the event…$"
+	.string "Selamat…\p"
+	.string "Kamu telah merebut kemenangan dari\n"
+	.string "PIKE QUEEN dan menyelesaikan acara ini…$"
 
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints:
-	.string "In recognition of your amazing luck,\n"
-	.string "we award you these Battle Point(s)…$"
+	.string "Sebagai pengakuan atas keberuntunganmu,\n"
+	.string "kami berikan Battle Point ini…$"
 
 BattleFrontier_BattlePikeLobby_Text_OneRoomAwayFromGoal:
-	.string "Arrgh! I blew my chance!\n"
-	.string "I was one room away from the goal!\p"
-	.string "In this place, you'd better watch out\n"
-	.string "for poison, freezing, and so on.$"
+	.string "Arrgh! Kesempatanku hilang!\n"
+	.string "Tinggal satu ruangan lagi dari tujuan!\p"
+	.string "Di tempat ini, sebaiknya kamu waspada\n"
+	.string "terhadap racun, beku, dan lainnya.$"
 
 BattleFrontier_BattlePikeLobby_Text_NeverHadToBattleTrainer:
-	.string "I've completed the challenge 10 times\n"
-	.string "now, but I've never had to battle\l"
-	.string "a TRAINER once.$"
+	.string "Aku sudah menyelesaikan tantangan ini\n"
+	.string "10 kali, tapi tak pernah sekalipun\l"
+	.string "bertarung dengan TRAINER.$"
 
 BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere:
-	.string "Listen! Listen!\p"
-	.string "Don't you think that the special\n"
-	.string "abilities of POKéMON will be useful\l"
-	.string "here?$"
+	.string "Dengar! Dengar!\p"
+	.string "Tidakkah kamu pikir kemampuan spesial\n"
+	.string "POKéMON akan berguna di sini?$"
 
-@ Unused
 BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose:
-	.string "What is this weird place?\n"
-	.string "I can't figure it out at all!\p"
-	.string "I've taken the challenge a bunch\n"
-	.string "of times, but all I ever do is run into\l"
-	.string "TRAINERS whichever path I choose.$"
+	.string "Tempat aneh apa ini?\n"
+	.string "Aku tak mengerti sama sekali!\p"
+	.string "Aku sudah mengambil tantangan ini\n"
+	.string "berkali-kali, tapi yang kutemui\l"
+	.string "hanyalah TRAINER di jalur mana pun.$"
 
 BattleFrontier_BattlePikeLobby_Text_RulesAreListed:
-	.string "The Battle Choice's rules are listed.$"
+	.string "Aturan Battle Choice terdaftar.$"
 
 BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Judul mana yang ingin kamu baca?$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules:
-	.string "The BAG and POKéNAV may not be used\n"
-	.string "during a Battle Choice challenge.$"
+	.string "TAS dan POKéNAV tidak dapat digunakan\n"
+	.string "selama tantangan Battle Choice.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules:
-	.string "During a Battle Choice challenge,\n"
-	.string "any BERRY or HERB held by POKéMON\l"
-	.string "will be effective only once.$"
+	.string "Selama tantangan Battle Choice,\n"
+	.string "BERRY atau HERB yang dipegang POKéMON\l"
+	.string "hanya akan efektif satu kali.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainMonOrderRules:
-	.string "During a Battle Choice challenge,\n"
-	.string "the sequence of POKéMON cannot be\l"
-	.string "changed.\p"
-	.string "The sequence must be set before\n"
-	.string "starting your challenge.$"
+	.string "Selama tantangan Battle Choice,\n"
+	.string "urutan POKéMON tidak dapat diubah.\p"
+	.string "Urutan harus diatur sebelum\n"
+	.string "memulai tantanganmu.$"
 

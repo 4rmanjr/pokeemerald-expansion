@@ -100,42 +100,42 @@ Route110_TrickHousePuzzle2_EventScript_Georgia::
 	end
 
 Route110_TrickHousePuzzle2_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is smart.”\n"
+	.string "{PLAYER} menuliskan kode rahasia\n"
+	.string "di pintu.\p"
+	.string "“TRICK MASTER cerdas.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Kunci terbuka!$"
 
 Route110_TrickHousePuzzle2_Text_TedIntro:
-	.string "Which switch closes which hole?$"
+	.string "Sakelar mana yang menutup lubang mana?$"
 
 Route110_TrickHousePuzzle2_Text_TedDefeat:
-	.string "After that battle, I'm even more\n"
-	.string "confused!$"
+	.string "Setelah pertarungan itu, Aku semakin\n"
+	.string "bingung!$"
 
 Route110_TrickHousePuzzle2_Text_TedPostBattle:
-	.string "Can I get you to push all the buttons\n"
-	.string "for me?$"
+	.string "Bisakah kamu menekan semua tombol\n"
+	.string "untukku?$"
 
 Route110_TrickHousePuzzle2_Text_PaulIntro:
-	.string "Oh! You're on your second TRICK HOUSE\n"
-	.string "challenge!$"
+	.string "Oh! Kamu sedang dalam tantangan\n"
+	.string "TRICK HOUSE keduamu!$"
 
 Route110_TrickHousePuzzle2_Text_PaulDefeat:
-	.string "You're good at battling too?$"
+	.string "Kamu juga jago bertarung?$"
 
 Route110_TrickHousePuzzle2_Text_PaulPostBattle:
-	.string "The TRICK MASTER rigged all the tricks\n"
-	.string "in this house all by himself.$"
+	.string "TRICK MASTER mengatur semua trik\n"
+	.string "di rumah ini sendirian.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
-	.string "I want to make my own GYM one day.\n"
-	.string "So, I'm studying how to set traps.$"
+	.string "Aku ingin membuat GYM-ku sendiri suatu hari nanti.\n"
+	.string "Jadi, Aku sedang belajar cara memasang jebakan.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:
-	.string "I didn't study battling enough!$"
+	.string "Aku tidak cukup belajar bertarung!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle:
-	.string "You're strong, aren't you?\n"
-	.string "Maybe even enough to be a GYM LEADER!$"
+	.string "Kamu kuat, kan?\n"
+	.string "Mungkin bahkan cukup untuk menjadi PEMIMPIN GYM!$"
 

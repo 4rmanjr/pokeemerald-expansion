@@ -287,67 +287,66 @@ Route103_EventScript_Isabelle::
 	end
 
 Route103_Text_MayRoute103Pokemon:
-	.string "MAY: Let's see… The POKéMON found\n"
-	.string "on ROUTE 103 include…$"
+	.string "MAY: Mari kita lihat… POKéMON yang\n"
+	.string "ditemukan di RUTE 103 termasuk…$"
 
 Route103_Text_MayLetsBattle:
-	.string "Oh, hi, {PLAYER}{KUN}!\p"
-	.string "…Oh, I see, my dad gave you\n"
-	.string "a POKéMON as a gift.\p"
-	.string "Since we're here, let's have a quick\n"
-	.string "battle!\p"
-	.string "I'll give you a taste of what being\n"
-	.string "a TRAINER is like.$"
+	.string "Oh, hai, {PLAYER}{KUN}!\p"
+	.string "…Oh, Aku mengerti, ayahku memberimu\n"
+	.string "POKéMON sebagai hadiah.\p"
+	.string "Karena kita di sini, mari kita bertarung\n"
+	.string "cepat!\p"
+	.string "Aku akan memberimu gambaran seperti apa\n"
+	.string "menjadi TRAINER.$"
 
 Route103_Text_MayDefeated:
-	.string "Wow! That's great!\n"
-	.string "{PLAYER}{KUN}, you're pretty good!$"
+	.string "Wow! Hebat sekali!\n"
+	.string "{PLAYER}{KUN}, kamu cukup bagus!$"
 
 Route103_Text_MayTimeToHeadBack:
-	.string "MAY: I think I know why my dad has\n"
-	.string "an eye out for you now.\p"
-	.string "I mean, you just got that POKéMON,\n"
-	.string "but it already likes you.\p"
-	.string "You might be able to befriend any\n"
-	.string "kind of POKéMON easily.\p"
-	.string "Well, it's time to head back to\n"
-	.string "the LAB.$"
+	.string "MAY: Aku rasa Aku tahu mengapa ayahku\n"
+	.string "sekarang mengawasimu.\p"
+	.string "Maksudku, kamu baru saja mendapatkan\n"
+	.string "POKéMON itu,tapi ia sudah menyukaimu.\p"
+	.string "Kamu mungkin bisa berteman dengan\n"
+	.string "jenis POKéMON apa pun dengan mudah.\p"
+	.string "Baiklah, saatnya kembali ke\n"
+	.string "LAB.$"
 
 Route103_Text_BrendanRoute103Pokemon:
-	.string "BRENDAN: Okay, so it's this one and\n"
-	.string "that one that live on ROUTE 103…$"
+	.string "BRENDAN: Oke, jadi yang ini dan\n"
+	.string "yang itu yang tinggal di RUTE 103…$"
 
 Route103_Text_BrendanLetsBattle:
-	.string "Hey, it's {PLAYER}!\p"
-	.string "…Oh, yeah, Dad gave you a POKéMON.\p"
-	.string "Since we're here, how about a little\n"
-	.string "battle?\p"
-	.string "I'll teach you what being a TRAINER's\n"
-	.string "about!$"
+	.string "Hei, itu {PLAYER}!\p"
+	.string "…Oh, ya, Ayah memberimu POKéMON.\p"
+	.string "Karena kita di sini, bagaimana kalau sedikit\n"
+	.string "bertarung?\p"
+	.string "Aku akan mengajarimu tentang menjadi TRAINER!$"
 
 Route103_Text_BrendanDefeated:
-	.string "Huh, {PLAYER}, you're not too shabby.$"
+	.string "Huh, {PLAYER}, kamu tidak terlalu buruk.$"
 
 Route103_Text_BrendanTimeToHeadBack:
-	.string "BRENDAN: I think I get it.\n"
-	.string "I think I know why my dad has his eye\l"
-	.string "out for you now.\p"
-	.string "Look, your POKéMON already likes you,\n"
-	.string "even though you just got it.\p"
-	.string "{PLAYER}, I get the feeling that you\n"
-	.string "could befriend any POKéMON with ease.\p"
-	.string "We should head back to the LAB.$"
+	.string "BRENDAN: Aku rasa Aku mengerti.\n"
+	.string "Aku rasa Aku tahu mengapa ayahku sekarang\l"
+	.string "mengawasimu.\p"
+	.string "Lihat, POKéMON-mu sudah menyukaimu,\n"
+	.string "meskipun kamu baru saja mendapatkannya.\p"
+	.string "{PLAYER}, Aku merasa kamu\n"
+	.string "bisa berteman dengan POKéMON mana pun dengan mudah.\p"
+	.string "Kita harus kembali ke LAB.$"
 
 Route103_Text_ShouldHaveBroughtPotion:
-	.string "My POKéMON is staggeringly tired…\n"
-	.string "I should have brought a POTION…$"
+	.string "POKéMON-ku sangat lelah…\n"
+	.string "Aku seharusnya membawa POTION…$"
 
 Route103_Text_ShortcutToOldale:
-	.string "If you cross the sea from here,\n"
-	.string "it'll be a shortcut to OLDALE TOWN.\p"
-	.string "Fufufu, that's useful, isn't it?$"
+	.string "Jika kamu menyeberangi laut dari sini,\n"
+	.string "itu akan menjadi jalan pintas ke KOTA OLDALE.\p"
+	.string "Fufufu, itu berguna, bukan?$"
 
 Route103_Text_RouteSign:
-	.string "ROUTE 103\n"
-	.string "{DOWN_ARROW} OLDALE TOWN$"
+	.string "RUTE 103\n"
+	.string "{DOWN_ARROW} KOTA OLDALE$"
 

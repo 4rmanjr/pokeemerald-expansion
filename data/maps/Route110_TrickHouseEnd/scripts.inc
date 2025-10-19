@@ -249,108 +249,109 @@ Route110_TrickHouseEnd_Movement_TrickMasterSurprise:
 
 Route110_TrickHouseEnd_Text_YouveMadeItToMe:
 	.string "Aak!\n"
-	.string "You've made it to me?\l"
-	.string "Hmmm… You're sharp!$"
+	.string "Kamu berhasil sampai padaku?\l"
+	.string "Hmmm… Kamu cerdas!$"
 
 Route110_TrickHouseEnd_Text_AllNightToPlantTrees:
-	.string "It took me all night to plant all those\n"
-	.string "trees…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three, four, five, six places!$"
+	.string "Aku menghabiskan sepanjang malam untuk\n"
+	.string "menanam semua pohon itu…\p"
+	.string "Kamu hampir setara denganku dalam kehebatan,\n"
+	.string "satu, dua, tiga, empat, lima, enam tempat!$"
 
 Route110_TrickHouseEnd_Text_AllNightToMakeMaze:
-	.string "It took me all night to make the maze…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three, four, five places!$"
+	.string "Aku menghabiskan sepanjang malam untuk\n"
+	.string "membuat labirin itu…\p"
+	.string "Kamu hampir setara denganku dalam kehebatan,\n"
+	.string "satu, dua, tiga, empat, lima tempat!$"
 
 Route110_TrickHouseEnd_Text_AllNightToPreparePanels:
-	.string "It took me all night to prepare\n"
-	.string "the wall panels…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three, four places!$"
+	.string "Aku menghabiskan sepanjang malam untuk\n"
+	.string "menyiapkan panel dinding…\p"
+	.string "Kamu hampir setara denganku dalam kehebatan,\n"
+	.string "satu, dua, tiga, empat tempat!$"
 
 Route110_TrickHouseEnd_Text_AllNightToShoveBoulders:
-	.string "It took me all night to shove in those\n"
-	.string "boulders…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three places!$"
+	.string "Aku menghabiskan sepanjang malam untuk\n"
+	.string "mendorong batu-batu itu…\p"
+	.string "Kamu hampir setara denganku dalam kehebatan,\n"
+	.string "satu, dua, tiga tempat!$"
 
 Route110_TrickHouseEnd_Text_AllNightToMakeMechadolls:
-	.string "It took me all night to make MECHADOLLS\n"
-	.string "and another to think up the quiz…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two places!$"
+	.string "Aku menghabiskan sepanjang malam untuk\n"
+	.string "membuat MECHADOLL dan yang lainnya untuk memikirkan kuis…\p"
+	.string "Kamu hampir setara denganku dalam kehebatan,\n"
+	.string "satu, dua tempat!$"
 
 Route110_TrickHouseEnd_Text_AllNightToInstallDoors:
-	.string "It took me all night to install\n"
-	.string "the doors…\p"
-	.string "You're almost my equal in greatness!$"
+	.string "Aku menghabiskan sepanjang malam untuk\n"
+	.string "memasang pintu-pintu itu…\p"
+	.string "Kamu hampir setara denganku dalam kehebatan!$"
 
 Route110_TrickHouseEnd_Text_AllNightSettingUpArrows:
-	.string "It took me all night setting up arrows…\p"
-	.string "You're my equal in greatness!$"
+	.string "Aku menghabiskan sepanjang malam mengatur panah…\p"
+	.string "Kamu setara denganku dalam kehebatan!$"
 
 Route110_TrickHouseEnd_Text_AllNightPolishingFloors:
-	.string "It took me all night polishing floors…\p"
-	.string "You're above me in greatness!\n"
-	.string "Possibly…$"
+	.string "Aku menghabiskan sepanjang malam memoles lantai…\p"
+	.string "Kamu lebih hebat dariku!\n"
+	.string "Mungkin…$"
 
 Route110_TrickHouseEnd_Text_FountainOfIdeasRunDry:
-	.string "Wh-what should I do?\n"
-	.string "My fountain of ideas for tricks has\l"
-	.string "run dry…\p"
-	.string "Perhaps it is time I toured the country\n"
-	.string "on a quest to devise new tricks…$"
+	.string "A-apa yang harus kulakukan?\n"
+	.string "Sumber ideku untuk trik-trik telah\l"
+	.string "mengering…\p"
+	.string "Mungkin sudah waktunya Aku berkeliling negeri\n"
+	.string "dalam misi untuk merancang trik-trik baru…$"
 
 Route110_TrickHouseEnd_Text_DefeatedMePreferWhichTent:
-	.string "I hate to admit defeat, but you have\n"
-	.string "bested me!\p"
-	.string "Still, you must have been reeled in by\n"
-	.string "my charisma for you to visit me again\l"
-	.string "and again. Yes, you must have!\p"
-	.string "But that has nothing to do with my\n"
-	.string "losing!\p"
-	.string "In recognition of the friendship\n"
-	.string "between you, the driven, and the genius\l"
-	.string "that is myself, I demand that you take\l"
-	.string "this keepsake!\p"
-	.string "Actually there are two--\n"
-	.string "a RED TENT and a BLUE TENT.\l"
-	.string "Which do you prefer?$"
+	.string "Aku benci mengakui kekalahan, tapi kamu\n"
+	.string "telah mengalahkanku!\p"
+	.string "Namun, kamu pasti terpikat oleh\n"
+	.string "karismaku sehingga kamu mengunjungiku lagi\l"
+	.string "dan lagi. Ya, kamu pasti begitu!\p"
+	.string "Tapi itu tidak ada hubungannya dengan\n"
+	.string "kekalahanku!\p"
+	.string "Sebagai pengakuan atas persahabatan\n"
+	.string "antara kamu, yang gigih, dan kejeniusan\l"
+	.string "diriku sendiri, Aku menuntutmu untuk mengambil\l"
+	.string "cinderamata ini!\p"
+	.string "Sebenarnya ada dua--\n"
+	.string "TENDA MERAH dan TENDA BIRU.\l"
+	.string "Mana yang kamu pilih?$"
 
 Route110_TrickHouseEnd_Text_NoRoomInPC:
-	.string "What? No room in your PC?\n"
-	.string "What am I to make of that?\p"
-	.string "I wish I could say that, but I am much\n"
-	.string "too kind and caring, so come back later!$"
+	.string "Apa? Tidak ada ruang di PC-mu?\n"
+	.string "Apa yang harus kulakukan?\p"
+	.string "Aku berharap bisa mengatakan itu, tapi Aku\n"
+	.string "terlalu baik dan peduli, jadi kembalilah nanti!$"
 
 Route110_TrickHouseEnd_Text_LeavingOnJourney:
 	.string "… … … … … …\p"
-	.string "I am leaving on a journey of discovery.\n"
-	.string "A quest in search of new tricks.\p"
-	.string "I wish that you will one day visit and\n"
-	.string "entertain me again.\p"
-	.string "And now, farewell!$"
+	.string "Aku akan melakukan perjalanan penemuan.\n"
+	.string "Sebuah misi mencari trik-trik baru.\p"
+	.string "Aku berharap suatu hari nanti kamu akan\n"
+	.string "mengunjungiku dan menghiburku lagi.\p"
+	.string "Dan sekarang, selamat tinggal!$"
 
 Route110_TrickHouseEnd_Text_YouHaveEarnedThisReward:
-	.string "Fine!\n"
-	.string "You have earned this reward!$"
+	.string "Baiklah!\n"
+	.string "Kamu telah mendapatkan hadiah ini!$"
 
 Route110_TrickHouseEnd_Text_NoRoomForThis:
-	.string "What? Have you no room for this?\n"
-	.string "What manner of items do you carry?\p"
-	.string "But fine, since you've reached me,\n"
-	.string "your reward will be with me till later.$"
+	.string "Apa? Kamu tidak punya ruang untuk ini?\n"
+	.string "Barang macam apa yang kamu bawa?\p"
+	.string "Tapi baiklah, karena kamu sudah sampai padaku,\n"
+	.string "hadiahmu akan bersamaku sampai nanti.$"
 
 Route110_TrickHouseEnd_Text_MakeNewTricksToStumpYou:
-	.string "Scrub that smug smirk from your face!\n"
-	.string "It's much too early to think you've won!\p"
-	.string "I'll make new tricks to stump you, I will.\n"
-	.string "You may mock me only when you're done.\p"
-	.string "Come back for the next exciting\n"
-	.string "installment!$"
+	.string "Singkirkan senyum sombong itu dari wajahmu!\n"
+	.string "Terlalu dini untuk berpikir kamu sudah menang!\p"
+	.string "Aku akan membuat trik baru untuk membingungkanmu.\n"
+	.string "Kamu boleh mengejekku hanya jika kamu sudah selesai.\p"
+	.string "Kembalilah untuk episode\n"
+	.string "menarik berikutnya!$"
 
 Route110_TrickHouseEnd_Text_YoureIgnoringMe:
-	.string "Now, now! You're ignoring me now?\n"
-	.string "Now that, I consider heartbreaking!$"
+	.string "Sekarang, sekarang! Kamu mengabaikanku sekarang?\n"
+	.string "Itu, Aku anggap menyedihkan!$"
 

@@ -62,64 +62,64 @@ VerdanturfTown_EventScript_RusturfTunnelSign::
 	end
 
 VerdanturfTown_Text_ManTryingToDigTunnel:
-	.string "My papa told me.\p"
-	.string "He says this tunnel is full of\n"
-	.string "timid POKéMON.\p"
-	.string "They get all scared of loud noise and\n"
-	.string "make a big uproar.\p"
-	.string "So they had to stop the big tunnel\n"
-	.string "project.\p"
-	.string "But there's one man. He's trying to dig\n"
-	.string "the tunnel by himself!$"
+	.string "Papa saya memberitahu saya.\p"
+	.string "Katanya terowongan ini penuh dengan\n"
+	.string "POKéMON penakut.\p"
+	.string "Mereka sangat takut suara keras dan\n"
+	.string "membuat keributan besar.\p"
+	.string "Jadi mereka harus menghentikan proyek\n"
+	.string "terowongan besar itu.\p"
+	.string "Tapi ada satu orang. Dia mencoba menggali\n"
+	.string "terowongan itu sendirian!$"
 
 VerdanturfTown_Text_ManDugTunnelForLove:
-	.string "There was a man who dug a tunnel for\n"
-	.string "a lady he loved.\p"
-	.string "I don't really get it, but hey!$"
+	.string "Ada seorang pria yang menggali terowongan\n"
+	.string "untuk wanita yang dicintainya.\p"
+	.string "Aku tidak begitu mengerti, tapi ya sudahlah!$"
 
 VerdanturfTown_Text_AirCleanHere:
-	.string "The way the winds blow, volcanic ash\n"
-	.string "is never blown in this direction.\p"
-	.string "The air is clean and delicious here.\n"
-	.string "Living here should do wonders for even\l"
-	.string "frail and sickly people.$"
+	.string "Cara angin bertiup, abu vulkanik\n"
+	.string "tidak pernah tertiup ke arah ini.\p"
+	.string "Udara di sini bersih dan segar.\n"
+	.string "Tinggal di sini akan sangat bermanfaat\l"
+	.string "bahkan untuk orang yang lemah dan sakit-sakitan.$"
 
 VerdanturfTown_Text_MakeBattleTentDebut:
-	.string "My POKéMON and I, we've been riding\n"
-	.string "a hot winning streak.\p"
-	.string "So I decided to make my BATTLE TENT\n"
-	.string "debut in this town.$"
+	.string "POKéMON-ku dan aku, kami sedang dalam\n"
+	.string "rentetan kemenangan beruntun.\p"
+	.string "Jadi aku memutuskan untuk melakukan\n"
+	.string "debut BATTLE TENT-ku di kota ini.$"
 
 VerdanturfTown_Text_GuyTryingToBustThroughCave:
-	.string "Did you see the cave next to the\n"
+	.string "Apakah kamu melihat gua di sebelah\n"
 	.string "POKéMON MART?\p"
-	.string "There's a guy in there who's trying to\n"
-	.string "bust up boulders so he can bust out\l"
-	.string "through to the other side.\p"
-	.string "It'd be great if we could go through…\n"
-	.string "It'll make it easy to visit RUSTBORO.$"
+	.string "Ada seorang pria di sana yang mencoba\n"
+	.string "menghancurkan batu-batu besar agar bisa\l"
+	.string "keluar ke sisi lain.\p"
+	.string "Akan sangat bagus jika kita bisa lewat…\n"
+	.string "Itu akan memudahkan untuk mengunjungi RUSTBORO.$"
 
 VerdanturfTown_Text_EasyToGetToRustboroNow:
-	.string "That cave next to the POKéMON MART\n"
-	.string "is now a tunnel to the other side.\p"
-	.string "It's great--it's easy to go shop for\n"
-	.string "new DEVON products in RUSTBORO now.$"
+	.string "Gua di sebelah POKéMON MART itu\n"
+	.string "sekarang adalah terowongan ke sisi lain.\p"
+	.string "Bagus sekali--sekarang mudah untuk berbelanja\n"
+	.string "produk DEVON baru di RUSTBORO.$"
 
 VerdanturfTown_Text_TownSign:
-	.string "VERDANTURF TOWN\p"
-	.string "“The windswept highlands with the\n"
-	.string "sweet fragrance of grass.”$"
+	.string "KOTA VERDANTURF\p"
+	.string "“Dataran tinggi berangin dengan\n"
+	.string "aroma rumput yang manis.”$"
 
 VerdanturfTown_Text_WandasHouse:
 	.string "WANDA'S HOUSE$"
 
 VerdanturfTown_Text_BattleTentSign:
-	.string "BATTLE TENT VERDANTURF SITE\n"
-	.string "“Feast Your Eyes on Battles!”$"
+	.string "BATTLE TENT LOKASI VERDANTURF\n"
+	.string "“Manjakan Matamu dengan Pertarungan!”$"
 
 VerdanturfTown_Text_RusturfTunnelSign:
-	.string "RUSTURF TUNNEL\n"
-	.string "“Linking RUSTBORO and VERDANTURF\p"
-	.string "“The tunnel project has been\n"
-	.string "canceled.”$"
+	.string "TEROWONGAN RUSTURF\n"
+	.string "“Menghubungkan RUSTBORO dan VERDANTURF\p"
+	.string "“Proyek terowongan telah\n"
+	.string "dibatalkan.”$"
 

@@ -272,144 +272,143 @@ EventScript_EggHatch::
 	end
 
 Route117_Text_SeeWifeIfYoudLikeMeToRaiseMon:
-	.string "I'm the DAY-CARE MAN.\p"
-	.string "I help take care of the precious\n"
-	.string "POKéMON of TRAINERS.\p"
-	.string "If you'd like me to raise your POKéMON,\n"
-	.string "have a word with my wife.$"
+	.string "Aku adalah DAY-CARE MAN.\p"
+	.string "Aku membantu merawat POKéMON\n"
+	.string "berharga para TRAINER.\p"
+	.string "Jika kamu ingin aku membesarkan POKéMON-mu,\n"
+	.string "bicaralah dengan istriku.$"
 
 Route117_Text_DoYouWantEgg:
-	.string "Ah, it's you!\p"
-	.string "We were raising your POKéMON,\n"
-	.string "and my goodness, were we surprised!\p"
-	.string "Your POKéMON had an EGG!\p"
-	.string "We don't know how it got there,\n"
-	.string "but your POKéMON had it.\p"
-	.string "You do want it, yes?$"
+	.string "Ah, kamu!\p"
+	.string "Kami sedang membesarkan POKéMON-mu,\n"
+	.string "dan astaga, kami terkejut!\p"
+	.string "POKéMON-mu punya EGG!\p"
+	.string "Kami tidak tahu bagaimana itu bisa ada di sana,\n"
+	.string "tapi POKéMON-mu memilikinya.\p"
+	.string "Kamu menginginkannya, bukan?$"
 
 Route117_Text_YourMonIsDoingFine:
-	.string "Ah, it's you! Good to see you.\n"
-	.string "Your {STR_VAR_1}'s doing fine.$"
+	.string "Ah, kamu! Senang melihatmu.\n"
+	.string "{STR_VAR_1}-mu baik-baik saja.$"
 
 Route117_Text_IllKeepIt:
-	.string "Well then, I'll keep it.\n"
-	.string "Thanks!$"
+	.string "Baiklah, aku akan menyimpannya.\n"
+	.string "Terima kasih!$"
 
 Route117_Text_YouHaveNoRoomForIt:
-	.string "You have no room for it…\n"
-	.string "Come back when you've made room.$"
+	.string "Kamu tidak punya tempat untuk itu…\n"
+	.string "Kembalilah setelah kamu punya tempat.$"
 
 Route117_Text_ReceivedEgg:
-	.string "{PLAYER} received the EGG from\n"
-	.string "the DAY-CARE MAN.$"
+	.string "{PLAYER} menerima EGG dari\n"
+	.string "DAY-CARE MAN.$"
 
 Route117_Text_TakeGoodCareOfIt:
-	.string "Take good care of it.$"
+	.string "Rawatlah baik-baik.$"
 
 Route117_Text_FriendlyWithOtherTrainersMon:
-	.string "By the way, about your {STR_VAR_1},\n"
-	.string "it seemed to be friendly with\l"
-	.string "{STR_VAR_2}'s {STR_VAR_3}.\p"
-	.string "I may even have seen it receiving\n"
-	.string "a piece of MAIL.$"
+	.string "Ngomong-ngomong, tentang {STR_VAR_1}-mu,\n"
+	.string "itu tampak akrab dengan {STR_VAR_2}'s {STR_VAR_3}.\p"
+	.string "Aku bahkan mungkin melihatnya menerima\n"
+	.string "selembar MAIL.$"
 
 @ Unused
 Route117_Text_SeeWifeIfYouWantToPickUpMon:
-	.string "If you want to pick up your POKéMON,\n"
-	.string "have a word with my wife.$"
+	.string "Jika kamu ingin mengambil POKéMON-mu,\n"
+	.string "bicaralah dengan istriku.$"
 
 Route117_Text_YourMonsAreDoingFine:
-	.string "Ah, it's you! Your {STR_VAR_1} and\n"
-	.string "{STR_VAR_2} are doing fine.$"
+	.string "Ah, kamu! {STR_VAR_1} dan\n"
+	.string "{STR_VAR_2}-mu baik-baik saja.$"
 
 Route117_Text_IWillKeepDoYouWantIt:
-	.string "I really will keep it.\n"
-	.string "You do want this, yes?$"
+	.string "Aku benar-benar akan menyimpannya.\n"
+	.string "Kamu menginginkannya, bukan?$"
 
 Route117_PokemonDayCare_Text_WouldYouLikeUsToRaiseAMon:
-	.string "I'm the DAY-CARE LADY.\p"
-	.string "We can raise POKéMON for you.\p"
-	.string "Would you like us to raise one?$"
+	.string "Aku adalah DAY-CARE LADY.\p"
+	.string "Kami bisa membesarkan POKéMON untukmu.\p"
+	.string "Apakah kamu ingin kami membesarkan satu?$"
 
 Route117_PokemonDayCare_Text_WhichMonShouldWeRaise:
-	.string "Which POKéMON should we raise for\n"
-	.string "you?$"
+	.string "POKéMON mana yang harus kami besarkan untuk\n"
+	.string "kamu?$"
 
 Route117_PokemonDayCare_Text_WellRaiseYourMon:
-	.string "Fine, we'll raise your {STR_VAR_1}\n"
-	.string "for a while.\p"
-	.string "Come back for it later.$"
+	.string "Baiklah, kami akan membesarkan {STR_VAR_1}-mu\n"
+	.string "untuk sementara.\p"
+	.string "Kembalilah nanti untuk mengambilnya.$"
 
 Route117_PokemonDayCare_Text_WeCanRaiseOneMore:
-	.string "We can raise two of your POKéMON.\n"
-	.string "Would you like us to raise one more?$"
+	.string "Kami bisa membesarkan dua POKéMON-mu.\n"
+	.string "Apakah kamu ingin kami membesarkan satu lagi?$"
 
 Route117_PokemonDayCare_Text_HusbandWasLookingForYou:
-	.string "My husband was looking for you.$"
+	.string "Suamiku mencarimu.$"
 
 Route117_PokemonDayCare_Text_FineThenComeAgain:
-	.string "Oh, fine, then.\n"
-	.string "Come again.$"
+	.string "Oh, baiklah.\n"
+	.string "Kembalilah lagi.$"
 
 Route117_PokemonDayCare_Text_NotEnoughMoney:
-	.string "You don't have enough money…$"
+	.string "Uangmu tidak cukup…$"
 
 Route117_PokemonDayCare_Text_TakeOtherOneBackToo:
-	.string "Will you take back the other one,\n"
-	.string "too?$"
+	.string "Apakah kamu akan mengambil yang lain,\n"
+	.string "juga?$"
 
 Route117_PokemonDayCare_Text_ComeAgain:
-	.string "Fine.\n"
-	.string "Come again.$"
+	.string "Baik.\n"
+	.string "Kembalilah lagi.$"
 
 Route117_PokemonDayCare_Text_GoodToSeeYou:
-	.string "Ah, it's you! Good to see you.\n"
-	.string "Your POKéMON can only be doing good!$"
+	.string "Ah, kamu! Senang melihatmu.\n"
+	.string "POKéMON-mu pasti baik-baik saja!$"
 
 Route117_PokemonDayCare_Text_YourMonHasGrownXLevels:
-	.string "By level, your {STR_VAR_1} has\n"
-	.string "grown by {STR_VAR_2}.$"
+	.string "Berdasarkan level, {STR_VAR_1}-mu telah\n"
+	.string "bertambah {STR_VAR_2}.$"
 
 Route117_PokemonDayCare_Text_YourTeamIsFull:
-	.string "Your POKéMON team is full.\n"
-	.string "Make room, then come see me.$"
+	.string "Tim POKéMON-mu penuh.\n"
+	.string "Buatlah ruang, lalu datanglah menemuiku.$"
 
 @ Unused
 Route117_PokemonDayCare_Text_TakeBackWhichMon:
-	.string "Which POKéMON will you take back?$"
+	.string "POKéMON mana yang akan kamu ambil kembali?$"
 
 Route117_PokemonDayCare_Text_ItWillCostX:
-	.string "If you want your {STR_VAR_1} back,\n"
-	.string "it will cost ¥{STR_VAR_2}.$"
+	.string "Jika kamu ingin {STR_VAR_1}-mu kembali,\n"
+	.string "itu akan berharga ¥{STR_VAR_2}.$"
 
 Route117_PokemonDayCare_Text_HeresYourMon:
-	.string "Perfect!\n"
-	.string "Here's your POKéMON.$"
+	.string "Sempurna!\n"
+	.string "Ini POKéMON-mu.$"
 
 Route117_PokemonDayCare_Text_TookBackMon:
-	.string "{PLAYER} took back {STR_VAR_1} from\n"
-	.string "the DAY-CARE LADY.$"
+	.string "{PLAYER} mengambil kembali {STR_VAR_1} dari\n"
+	.string "DAY-CARE LADY.$"
 
 Route117_PokemonDayCare_Text_YouHaveJustOneMon:
-	.string "Oh? But you have just one\n"
+	.string "Oh? Tapi kamu hanya punya satu\n"
 	.string "POKéMON.\p"
-	.string "Come back another time.$"
+	.string "Kembalilah lain kali.$"
 
 Route117_PokemonDayCare_Text_TakeYourMonBack:
-	.string "Will you take your POKéMON back?$"
+	.string "Apakah kamu akan mengambil POKéMON-mu kembali?$"
 
 Route117_PokemonDayCare_Text_WhatWillYouBattleWith:
-	.string "If you leave me that POKéMON,\n"
-	.string "what will you battle with?\p"
-	.string "Come back another time.$"
+	.string "Jika kamu meninggalkanku POKéMON itu,\n"
+	.string "dengan apa kamu akan bertarung?\p"
+	.string "Kembalilah lain kali.$"
 
 Text_EggHatchHuh:
-	.string "Huh?$"
+	.string "Hah?$"
 
 Route117_PokemonDayCare_Text_YoullBeLeftWithJustOne:
-	.string "Huh?\n"
-	.string "Now, now.\p"
-	.string "If you leave that POKéMON with\n"
-	.string "me, you'll be left with just one.\p"
-	.string "You will be better off if you catch\n"
-	.string "some more, I dare say.$"
+	.string "Hah?\n"
+	.string "Sekarang, sekarang.\p"
+	.string "Jika kamu meninggalkan POKéMON itu\n"
+	.string "padaku, kamu hanya akan punya satu.\p"
+	.string "Kamu akan lebih baik jika kamu menangkap\n"
+	.string "lebih banyak, aku berani bilang.$"

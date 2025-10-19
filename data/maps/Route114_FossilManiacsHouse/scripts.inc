@@ -31,24 +31,24 @@ Route114_FossilManiacsHouse_EventScript_Bookshelf::
 	end
 
 Route114_FossilManiacsHouse_Text_HaveThisToDigLikeMyBrother:
-	.string "My big brother's the FOSSIL MANIAC…\n"
-	.string "He's a nice guy who loves FOSSILS…\p"
-	.string "He loves digging holes, too…\n"
-	.string "He dug this hole by himself…\p"
-	.string "You can have this, so you can DIG\n"
-	.string "holes just like my big brother…$"
+	.string "Kakakku adalah FOSSIL MANIAC…\n"
+	.string "Dia orang baik yang menyukai FOSSIL…\p"
+	.string "Dia juga suka menggali lubang…\n"
+	.string "Dia menggali lubang ini sendiri…\p"
+	.string "Kamu bisa miliki ini, agar kamu bisa MENGGALI\n"
+	.string "lubang seperti kakakku…$"
 
 Route114_FossilManiacsHouse_Text_DigReturnsYouToEntrance:
-	.string "If you make a POKéMON DIG inside a\n"
-	.string "cave, you're returned to the entrance…$"
+	.string "Jika kamu menyuruh POKéMON-mu MENGGALI\n"
+	.string "di dalam gua, kamu akan kembali ke pintu masuk…$"
 
 Route114_FossilManiacsHouse_Text_RocksFillDisplayCase:
-	.string "Rocks in peculiar shapes fill\n"
-	.string "the display case…$"
+	.string "Batu-batuan berbentuk unik memenuhi\n"
+	.string "kotak pajangan…$"
 
 Route114_FossilManiacsHouse_Text_CrammedWithBooks:
-	.string "THE COMPOSITION OF STRATA…\n"
-	.string "HOW RAIN SHAPES THE LAND…\l"
-	.string "STONES, SOIL, AND ROCK…\p"
-	.string "It's crammed with books.$"
+	.string "KOMPOSISI LAPISAN TANAH…\n"
+	.string "BAGAIMANA HUJAN MEMBENTUK DARATAN…\l"
+	.string "BATU, TANAH, DAN BEBATUAN…\p"
+	.string "Penuh sesak dengan buku.$"
 

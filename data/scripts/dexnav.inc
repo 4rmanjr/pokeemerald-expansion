@@ -29,19 +29,20 @@ EventScript_TooDark::
 	end
 
 sText_NotFoundNearby:
-	.string "It couldn't be found nearby.\n"
-	.string "Try looking in a different area!$"
+	.string "Tidak dapat ditemukan di dekat sini.\n"
+	.string "Coba cari di area yang berbeda!$"
 
 sText_TryMovingSlower:
-	.string "The Pokémon got away!\n"
-	.string "Try moving more slowly.$"
+	.string "POKéMON-nya kabur!\n"
+	.string "Coba bergerak lebih pelan.$"
 
 sText_PokemonGotAway:
-	.string "The Pokémon got away!$"
+	.string "POKéMON-nya kabur!$"
 
 sText_LostSignal:
-	.string "There is no reaction.\n"
-	.string "The signal was lost!$"
+	.string "Tidak ada reaksi.\n"
+	.string "Sinyal hilang!$"
 
 sText_TooDark:
-	.string "It's too dark to search\nfor a Pokémon!$"
+	.string "Terlalu gelap untuk mencari\nPOKéMON!$"
+
